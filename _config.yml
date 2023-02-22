@@ -9,7 +9,7 @@ name: The Pluvionauts, an open-source board game.
 description: Move flying islands as an airship pilot!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/logo.svg
+avatar: /assets/images/icons/logo.svg
 
 #
 # Flags below are optional
