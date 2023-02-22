@@ -2,8 +2,20 @@
 layout: default
 ---
 
-<div class="test">
-	{{ site.posts }}
+<div class="post test">
+	<h1>{{ site.posts.last.title }}</h1>
+
+	<div class="content">
+		{{ site.posts.last.content }}
+	</div>
+</div>
+
+<div class="home test">
+	<h1>{{ site.home.title }}</h1>
+
+	<div class="content">
+		{{ site.home.content }}
+	</div>
 </div>
 
 <div class="posts">
