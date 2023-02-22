@@ -1,9 +1,9 @@
 ---
 layout: post
-title: First participation to the Festival International des Jeux in Cannes (#1)
+title: First participation to the Festival International des Jeux in Cannes
 ---
 
-![festival_picture_0](assets/images/pics/2022-2-24-fij-cannes/0.jpeg)
+![Festival Picture 0](/assets/images/pics/2022-2-24-fij-cannes/0.jpeg)
 
 Today, I participated for the fist time to the the **Off** section of the [Festival International des Jeux](https://www.festivaldesjeux-cannes.com/en/) in Cannes (France).
 
@@ -13,32 +13,32 @@ There are still some ruling rweaking to do though...
 
 Check out some more pictures!
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/1.jpeg)
+![Festival Picture 1](/assets/images/pics/2022-2-24-fij-cannes/1.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/2.jpeg)
+![Festival Picture 2](/assets/images/pics/2022-2-24-fij-cannes/2.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/3.jpeg)
+![Festival Picture 3](/assets/images/pics/2022-2-24-fij-cannes/3.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/4.jpeg)
+![Festival Picture 4](/assets/images/pics/2022-2-24-fij-cannes/4.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/5.jpeg)
+![Festival Picture 5](/assets/images/pics/2022-2-24-fij-cannes/5.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/6.jpeg)
+![Festival Picture 6](/assets/images/pics/2022-2-24-fij-cannes/6.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/7.jpeg)
+![Festival Picture 7](/assets/images/pics/2022-2-24-fij-cannes/7.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/8.jpeg)
+![Festival Picture 8](/assets/images/pics/2022-2-24-fij-cannes/8.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/9.jpeg)
+![Festival Picture 9](/assets/images/pics/2022-2-24-fij-cannes/9.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/10.jpeg)
+![Festival Picture 10](/assets/images/pics/2022-2-24-fij-cannes/10.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/11.jpeg)
+![Festival Picture 11](/assets/images/pics/2022-2-24-fij-cannes/11.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/12.jpeg)
+![Festival Picture 12](/assets/images/pics/2022-2-24-fij-cannes/12.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/13.jpeg)
+![Festival Picture 13](/assets/images/pics/2022-2-24-fij-cannes/13.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/14.jpeg)
+![Festival Picture 14](/assets/images/pics/2022-2-24-fij-cannes/14.jpeg)
 
-![festival_picture_1](assets/images/pics/2022-2-24-fij-cannes/15.jpeg)
+![Festival Picture 15](/assets/images/pics/2022-2-24-fij-cannes/15.jpeg)
