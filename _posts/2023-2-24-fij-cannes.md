@@ -3,9 +3,9 @@ layout: post
 title: First participation to the Festival International des Jeux in Cannes
 ---
 
-![Festival Picture 0](/assets/images/pics/2022-2-24-fij-cannes/0.jpeg)
-
 Today, I participated for the fist time to the the **Off** section of the [Festival International des Jeux](https://www.festivaldesjeux-cannes.com/en/) in Cannes (France).
+
+![Festival Picture 0](/assets/images/pics/2022-2-24-fij-cannes/0.jpeg)
 
 I've met very nice people that gave me amazing feedback! 
 This motivates to push the idea forward as much as I can and see where it goes.
