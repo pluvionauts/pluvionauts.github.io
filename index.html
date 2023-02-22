@@ -2,9 +2,5 @@
 layout: default
 ---
 
-<!-- Site icon -->
-<link rel="shortcut icon" type="svg" href="/assets/images/icons/logo.svg">
-
 <!-- Include proper home page -->
-{% capture home_include %}{% include_relative home.md %}{% endcapture %}
-{{ home_include | markdownify }}
+{% include home.md %}
