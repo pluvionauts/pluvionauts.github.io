@@ -22,7 +22,8 @@ The philosophy of this project is strongly similar to that of the [Pepper&Carrot
 
 ### Supported by patrons
 
-**The Pluvionauts** project should only be funded by its patrons, from all around the world that should ensure the Independence of the project.
+**The Pluvionauts** project should only be funded by its patrons, from all around the world.
+This system should ensure the independence of the project.
 Note that in practice, the ability to support is still work in progress but I'll get there at some point.
 
 ### Free(libre)
