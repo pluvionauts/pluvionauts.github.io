@@ -3,4 +3,5 @@ layout: default
 ---
 
 <!-- Include proper home page -->
-{% include home.md %}
+{% capture home_include %}{% include home.md %}{% endcapture %}
+{{ home_include | markdownify }}
