@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Festival International des Jeux in Cannes #1
+title: 'Festival International des Jeux in Cannes #1'
 ---
 
-Today, I participated for the fist time to the the **Off** section of the [Festival International des Jeux](https://www.festivaldesjeux-cannes.com/en/) in Cannes (France).
+Today, I participated for the first time to the the **Off** section of the [Festival International des Jeux](https://www.festivaldesjeux-cannes.com/en/) in Cannes (France).
 
 ![Festival Picture 0](/assets/images/pics/2022-2-24-fij-cannes/0.jpeg)
 
