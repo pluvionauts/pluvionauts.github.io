@@ -9,8 +9,6 @@ permalink: /about/
 Hi, my name is Rémi Monthiller and I'm a French artist/game dev/scientist born in 1996. 
 I'm a free(libre) software enthusiast and an every day gamer through sports, board games, role playing, video games and life in general.
 
-I am fond of experimenting, particularly through non-competitive life challenges, such as living without a fridge (for a limited period).
-
 Throughout my studies, I can't remember a time without trying to create my own games, from board games to [video games](https://rmonthil.itch.io/), despite my academic pursuits leading me towards science.
 The Covid-19 pandemic got me to start working more actively on a long-term board game idea, which I completed during the final year of my [Ph.D. in physics of fluids](https://www.youtube.com/watch?v=LDYkYfR8kcw&t).
 I then decided to invest my time in bringing my board game idea to fruition, resulting in this project: **The Pluvionauts**.
