@@ -3,13 +3,13 @@ layout: post
 title: 'Festival International des Jeux in Cannes #1'
 ---
 
-Today, I participated for the first time to the the **Off** section of the [Festival International des Jeux](https://www.festivaldesjeux-cannes.com/en/) in Cannes (France).
+Today, I participated for the first time in the **Off** section of the [Festival International des Jeux](https://www.festivaldesjeux-cannes.com/en/) in Cannes (France).
 
 ![Festival Picture 0](/assets/images/pics/2022-2-24-fij-cannes/0.jpeg)
 
 I've met very nice people that gave me amazing feedback! 
 This motivates to push the idea forward as much as I can and see where it goes.
-There is still some rule tweaking to do though...
+However, there is still some rule tweaking to do...
 
 Check out some more pictures:
 
