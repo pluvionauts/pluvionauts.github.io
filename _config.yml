@@ -2,10 +2,12 @@
 # This file contains configuration flags to customize your site
 #
 
-# Supported languages
-
 name: The Pluvionauts, a Free(Libre) board game.
 description: Move flying islands as an airship pilot!
+avatar: /assets/images/icons/logo.svg
+author: Rémi Monthiller
+
+# Supported languages
 
 languages:
   en:
@@ -15,12 +17,21 @@ languages:
     name: Les Pluvionautes, un jeu de société libre.
     description: Incarne un pilote de montgolfière qui tracte des îles volantes!
 
-# URL of your avatar
-avatar: /assets/images/icons/logo.svg
-
-# Author
-
-author: Rémi Monthiller
+defaults:
+-
+  scope:
+    path: '_posts/en'
+    type: 'posts'
+  values:
+    permalink: 'en/events/:title'
+    language: en
+-
+  scope:
+    path: '_posts/fr'
+    type: 'posts'
+  values:
+    permalink: 'it/evenements/:title'
+    language: fr
 
 #
 # Flags below are optional

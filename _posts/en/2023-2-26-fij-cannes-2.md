@@ -1,7 +1,11 @@
 ---
 layout: post
+
 title: 'Festival International des Jeux in Cannes #2'
 description: 'Attending a second time to one of the largest board game festival of France.'
+
+language: en
+language_reference: fij-2
 ---
 
 I had the pleasure of attending the [Festival International des Jeux](https://www.festivaldesjeux-cannes.com/en/) in Cannes (France) for the second time this weekend! 
