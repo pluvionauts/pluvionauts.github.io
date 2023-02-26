@@ -6,7 +6,7 @@ title: 'Festival International des Jeux in Cannes #1'
 Today, I participated for the first time in the **Off** section of the [Festival International des Jeux](https://www.festivaldesjeux-cannes.com/en/) in Cannes (France).
 
 ![Festival Picture 0](/assets/images/pics/2022-2-24-fij-cannes/0.jpeg)
-*Ongoing game of the pluvionauts. Photo by Suzanne Lapillonne.*
+*Photo of an ongoing game at the festival. Photo by Suzanne Lapillonne.*
 
 I've met very nice people that gave me amazing feedback! 
 This motivates to push the idea forward as much as I can and see where it goes.

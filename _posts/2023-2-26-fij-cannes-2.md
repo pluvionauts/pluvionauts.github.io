@@ -7,7 +7,7 @@ I had the pleasure of attending the [Festival International des Jeux](https://ww
 I had the opportunity to show and test the latest laser-cut version of the board game in the Off section of the festival.
 
 ![Festival Picture 2](/assets/images/pics/2023-2-26-fij-cannes/2.jpg)
-*State of the board during an ongoing game. Photo by Suzanne Lapillonne.*
+*State of the board during an ongoing game at the festival. Photo by Suzanne Lapillonne.*
 
 Playing was so much fun! The core mechanics were greatly enjoyed by most players. 
 Throwing the dice on the board and moving mountains around with the airship were especially appreciated.
