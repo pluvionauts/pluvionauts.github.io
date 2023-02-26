@@ -45,8 +45,9 @@
           </nav>
 
           <nav>
-          	<p>{{ site.languages }}</p>
+          	<p>test: {{ site.languages }}. </p>
 	        {% for language in site.languages %}
+	          <p>test:{{ language }}. </p>
 	          {% if language == "fr" %}
 	            <a href="{{ site.baseurl }}">{{ Français }}</a>
 	          {% else %}
