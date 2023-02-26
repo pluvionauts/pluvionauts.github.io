@@ -49,28 +49,28 @@
 	        {% for language in site.languages %}
 
 	          {% if page.layout == 'page' %}
-	            {% assign navigation_pages = site.pages
+	            {% assign translations = site.pages
 	              | where: 'language_reference', page.language_reference
 	              | where: 'language', language %}
-	            {% if navigation_pages.size == 1 %}
-	              {% for navigation_page in navigation_pages %}
-	                {% assign url = site.baseurl | append: navigation_page.url %}
+	            {% if translations.size == 1 %}
+	              {% for translation in translations %}
+	                {% assign url = site.baseurl | append: translation.url %}
 	              {% endfor %}
 	            {% endif %}
 	      
 	          {% elsif page.layout == 'post' %}
-	            {% assign navigation_posts = site.posts
+	            {% assign translations = site.posts
 	              | where: 'language_reference', page.language_reference
 	              | where: 'language', language %}
-	            {% if navigation_posts.size == 1 %}
-	              {% for navigation_post in navigation_posts %}
-	                {% assign url = site.baseurl | append: navigation_post.url %}
+	            {% if translations.size == 1 %}
+	              {% for translation in translations %}
+	                {% assign url = site.baseurl | append: translation.url %}
 	              {% endfor %}
 	            {% endif %}
 	      
 	          {% endif %}
 	          <!-- TODO: CONDITION TO SPECIFY THE CURRENT LANGUAGE -->
-	          {% if page.language == "fr" %}
+	          {% if translations.size == 1 %}
 	            {% if page.language == "fr" %}
                   <a href="{{ url }}">{{ Français }}</a>
                 {% else %}
