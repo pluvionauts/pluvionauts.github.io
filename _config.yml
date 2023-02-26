@@ -32,7 +32,7 @@ defaults:
     path: '_posts/fr'
     type: 'posts'
   values:
-    permalink: 'it/evenements/:title'
+    permalink: 'fr/evenements/:title'
     language: fr
 
 #
