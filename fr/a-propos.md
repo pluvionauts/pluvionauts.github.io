@@ -38,19 +38,7 @@ La possibilité de soutenir le projet est encore en cours de développement mais
 Tous les contenus que je produis pour **Les Pluvionautes**, dont les dessins et graphismes, les règles du jeu, les plans, les tutoriels et plus encore, seront disponibles sur ce site web, librement et gratuitement, et seront accessibles à tous.
 Vous n'aurez jamais à payer quoi que soit ou à vous abonner pour accéder aux ressources de ce projet.
 
-### Open-source and permissive
-
-People will have the right to share, use, build upon and even make money from this work.
-And to promote this philosophy, all resources for this project will be produced using Free(Libre) Open-Sources Software, including [Inkscape](https://inkscape.org/), [Krita](https://krita.org), [SolveSpace](https://solvespace.com/index.pl), among others.
-
-All sources will be available on this website.
-Commercial usage, translations, fan-art, prints, movies, video-games, sharing, and reposts are **encouraged** with appropriate credit to the authors involved in the resource you want to use, and indicating any changes that were made.
-You may do so in any reasonable manner, but not in any way that suggests the authors endorse you or your use. 
-For more information, please refer to the 
-
-In summary, you are free to modify the game rules, create and sell extensions or new versions of the game, or simply share and **enjoy the board game**!
-
-## Open-source et permissif
+### Open-source et permissif
 
 Les veux donner le droit de partager, d'utiliser, de développer et même de commercialiser les projets qui se bases sur ce projet.
 Et pour promouvoir cette philosophie, toutes les ressources de ce projet seront réalisés en utilisant des logiciels libres et open-source dont [Inkscape](https://inkscape.org/), [Krita](https://krita.org), [SolveSpace](https://solvespace.com/index.pl), parmi d'autres.
