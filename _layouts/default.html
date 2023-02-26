@@ -44,20 +44,8 @@
             {% endif %}
           </nav>
 
-          <nav>
-          	<p>test: {{ site.languages }}. </p>
-	        {% for language in site.languages %}
-	          <p>test:{{ language }}. </p>
-	          {% if language == "fr" %}
-	            <a href="{{ site.baseurl }}">Test Français</a>
-	          {% else %}
-	            <a href="{{ site.baseurl }}">Test English</a>
-	          {% endif %}
-	        {% endfor %}
-          </nav>
-
           <!-- Language selection -->
-          <nav>
+          <lang>
 	        {% for language in site.languages %}
 	          {% if page.layout == 'page' %}
 	            {% assign translations = site.pages
@@ -87,7 +75,7 @@
                 {% endif %}
               {% endif %}
 	        {% endfor %}
-          </nav>
+          </lang>
         </header>
       </div>
     </div>
