@@ -44,10 +44,8 @@
             {% endif %}
           </nav>
 
-          <!-- Language selection -->
           <nav>
 	        {% for language in site.languages %}
-
 	          {% if page.layout == 'page' %}
 	            {% assign translations = site.pages
 	              | where: 'language_reference', page.language_reference
@@ -69,9 +67,40 @@
 	            {% endif %}
 	      
 	          {% endif %}
-	          <!-- TODO: CONDITION TO SPECIFY THE CURRENT LANGUAGE -->
+
+	          {% if language == "fr" %}
+	            <a href="{{ url }}">{{ Français }}</a>
+	          {% else %}
+	            <a href="{{ url }}">{{ English }}</a>
+	          {% endif %}
+	        {% endfor %}
+          </nav>
+
+          <!-- Language selection -->
+          <nav>
+	        {% for language in site.languages %}
+	          {% if page.layout == 'page' %}
+	            {% assign translations = site.pages
+	              | where: 'language_reference', page.language_reference
+	              | where: 'language', language %}
+	            {% if translations.size == 1 %}
+	              {% for translation in translations %}
+	                {% assign url = site.baseurl | append: translation.url %}
+	              {% endfor %}
+	            {% endif %}
+	          {% elsif page.layout == 'post' %}
+	            {% assign translations = site.posts
+	              | where: 'language_reference', page.language_reference
+	              | where: 'language', language %}
+	            {% if translations.size == 1 %}
+	              {% for translation in translations %}
+	                {% assign url = site.baseurl | append: translation.url %}
+	              {% endfor %}
+	            {% endif %}
+	          {% endif %}
+
 	          {% if translations.size == 1 %}
-	            {% if page.language == "fr" %}
+	            {% if language == "fr" %}
                   <a href="{{ url }}">{{ Français }}</a>
                 {% else %}
                   <a href="{{ url }}">{{ English }}</a>
