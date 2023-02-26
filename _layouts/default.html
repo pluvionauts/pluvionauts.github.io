@@ -49,9 +49,9 @@
 	        {% for language in site.languages %}
 	          <p>test:{{ language }}. </p>
 	          {% if language == "fr" %}
-	            <a href="{{ site.baseurl }}">{{ Français }}</a>
+	            <a href="{{ site.baseurl }}">Test Français</a>
 	          {% else %}
-	            <a href="{{ site.baseurl }}">{{ English }}</a>
+	            <a href="{{ site.baseurl }}">Test English</a>
 	          {% endif %}
 	        {% endfor %}
           </nav>
@@ -81,9 +81,9 @@
 
 	          {% if translations.size == 1 %}
 	            {% if language == "fr" %}
-                  <a href="{{ url }}">{{ Français }}</a>
+                  <a href="{{ url }}">Français</a>
                 {% else %}
-                  <a href="{{ url }}">{{ English }}</a>
+                  <a href="{{ url }}">English</a>
                 {% endif %}
               {% endif %}
 	        {% endfor %}
