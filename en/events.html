@@ -11,11 +11,10 @@ language_reference: events
 ---
 
 <div class="posts">
-  <p>{{ site.posts }}</p>
   {%- assign posts = site.posts
     | where: 'language', page.language
-    | where: 'published', true
     %}
+  <!-- <p>{{ posts }}</p> -->
   {% for post in posts %}
     <article class="post">
 
