@@ -45,12 +45,12 @@
           </nav>
 
           <nav>
-          	<p>{{ site.name }}</p>
+          	<p>{{ site.languages }}</p>
 	        {% for language in site.languages %}
 	          {% if language == "fr" %}
-	            <a href="{{ url }}">{{ Français }}</a>
+	            <a href="{{ site.baseurl }}">{{ Français }}</a>
 	          {% else %}
-	            <a href="{{ url }}">{{ English }}</a>
+	            <a href="{{ site.baseurl }}">{{ English }}</a>
 	          {% endif %}
 	        {% endfor %}
           </nav>
