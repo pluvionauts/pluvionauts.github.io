@@ -47,8 +47,6 @@
           <!-- Language selection -->
           <lang>
 	        {% for language in site.languages %}
-	          <p>{{ language[1] }}</p>
-	          <p>{{ language[1].code }}</p>
 	          {% if page.layout == 'page' %}
 	            {% assign translations = site.pages
 	              | where: 'language_reference', page.language_reference
