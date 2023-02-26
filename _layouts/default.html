@@ -45,29 +45,8 @@
           </nav>
 
           <nav>
+          	<p>{{ site.name }}</p>
 	        {% for language in site.languages %}
-	          {% if page.layout == 'page' %}
-	            {% assign translations = site.pages
-	              | where: 'language_reference', page.language_reference
-	              | where: 'language', language %}
-	            {% if translations.size == 1 %}
-	              {% for translation in translations %}
-	                {% assign url = site.baseurl | append: translation.url %}
-	              {% endfor %}
-	            {% endif %}
-	      
-	          {% elsif page.layout == 'post' %}
-	            {% assign translations = site.posts
-	              | where: 'language_reference', page.language_reference
-	              | where: 'language', language %}
-	            {% if translations.size == 1 %}
-	              {% for translation in translations %}
-	                {% assign url = site.baseurl | append: translation.url %}
-	              {% endfor %}
-	            {% endif %}
-	      
-	          {% endif %}
-
 	          {% if language == "fr" %}
 	            <a href="{{ url }}">{{ Français }}</a>
 	          {% else %}
