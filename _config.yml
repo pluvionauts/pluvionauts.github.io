@@ -13,9 +13,11 @@ languages:
   en:
     name: The Pluvionauts, a Free(Libre) board game.
     description: Move flying islands as an airship pilot!
+    code: en
   fr:
     name: Les Pluvionautes, un jeu de société libre.
     description: Incarne un pilote de montgolfière qui tracte des îles volantes!
+    code: fr
 
 defaults:
 -
