@@ -30,10 +30,10 @@ Dans l'ensemble, on peut dire que cet événement s'est avéré être un grand s
 Nous sommes donc un pas plus proche d'une version finale du jeu prête à produire !
 
 ![Festival Picture 3](/assets/images/pics/2023-2-26-fij-cannes/3.jpg)
-*A player in intense contemplation in order to plan its play perfectly. Photo by Suzanne Lapillonne.*
+*Un joueur en contemplation du plateau, calculant le meilleur coup à jouer. Crédit photo: Suzanne Lapillonne.*
 
 ![Festival Picture 0](/assets/images/pics/2023-2-26-fij-cannes/0.jpg)
-*Players discussing the best strategy to maximize the points of their common game objective. Photo by Suzanne Lapillonne.*
+*Joueurs discutant de la meilleure stratégie à adopter pour maximiser la réalisation de leur objectif commun. Crédit photo: Suzanne Lapillonne.*
 
 ![Festival Picture 1](/assets/images/pics/2023-2-26-fij-cannes/1.jpg)
-*Top view of the board during an ongoing game. Photo by Suzanne Lapillonne.*
+*Plateau de jeu lors d'une partie en cours, vue du haut. Crédit photo: Suzanne Lapillonne.*

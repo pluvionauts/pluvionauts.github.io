@@ -1,8 +1,8 @@
 ---
 layout: page
 
-title: A propos
-description: A propos de l'auteur et du projet.
+title: À propos
+description: À propos de l'auteur et du projet.
 
 permalink: /fr/a-propos/
 
