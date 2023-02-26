@@ -12,7 +12,7 @@ language_reference: about
 
 ## The author
 
-Hi, my name is Rémi Monthiller and I'm a French artist/game dev/scientist born in 1996. 
+Hi, my name is **Rémi Monthiller** and I'm a French artist/game dev/scientist born in 1996. 
 I'm a free(libre) software enthusiast and an every day gamer through sports, board games, role playing, video games and life in general.
 
 Throughout my studies, I can't remember a time without trying to create my own games, from board games to [video games](https://rmonthil.itch.io/), despite my academic pursuits leading me towards science.
