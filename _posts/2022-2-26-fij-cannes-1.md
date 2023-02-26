@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Festival International des Jeux in Cannes #1'
+description: 'Attending to one of the largest board game festival of France.'
 ---
 
 Today, I participated for the first time in the **Off** section of the [Festival International des Jeux](https://www.festivaldesjeux-cannes.com/en/) in Cannes (France).

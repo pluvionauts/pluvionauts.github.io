@@ -29,10 +29,19 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
+          <!-- Navigation menu -->
           <nav>
             <a href="{{ site.baseurl }}/">Home</a>
-            <a href="{{ site.baseurl }}/events">Events</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            {% if page.language == "fr" %}
+              <a href="{{ site.baseurl }}/fr/evenements">Événement</a>
+            {% else %}
+              <a href="{{ site.baseurl }}/en/events">Events</a>
+            {% endif %}
+            {% if page.language == "fr" %}
+              <a href="{{ site.baseurl }}/fr/a-propos">À propos</a>
+            {% else %}
+              <a href="{{ site.baseurl }}/en/about">About</a>
+            {% endif %}
           </nav>
         </header>
       </div>

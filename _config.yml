@@ -2,14 +2,24 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
+# Name of the site
 name: The Pluvionauts, a Free(Libre) board game.
 
-# Short bio or description (displayed in the header)
+# Short description of the site
 description: Move flying islands as an airship pilot!
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# URL of your avatar
 avatar: /assets/images/icons/logo.svg
+
+# Author
+
+author: Rémi Monthiller
+
+# Supported languages
+
+languages: # README: unused at the moment
+  - en # english
+  - fr # french
 
 #
 # Flags below are optional
