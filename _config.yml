@@ -15,7 +15,7 @@ languages:
     description: Move flying islands as an airship pilot!
     code: en
   fr:
-    name: Les Pluvionautes, un jeu de société libre.
+    name: Les Pluvionautes, un jeu de société ouvert.
     description: Incarne un pilote de montgolfière qui tracte des îles volantes!
     code: fr
 

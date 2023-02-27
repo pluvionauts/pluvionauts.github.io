@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: page
+
+permalink: /en/home/
 
 language: en
-language_reference: index
+language_reference: home
 ---
 
 <!-- Include proper home page -->
-{% capture home_include %}{% include home.md %}{% endcapture %}
+{% capture home_include %}{% include_relative /en/home.md %}{% endcapture %}
 {{ home_include | markdownify }}

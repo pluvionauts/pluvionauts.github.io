@@ -31,7 +31,10 @@
 
           <!-- Navigation menu -->
           <nav>
-            <a href="{{ site.baseurl }}/">Home</a>
+            {% if page.language == "fr" %}
+	          <a href="{{ site.baseurl }}/">Accueil</a>
+	        {% else %}
+              <a href="{{ site.baseurl }}/">Home</a>
             {% if page.language == "fr" %}
               <a href="{{ site.baseurl }}/fr/evenements">Événements</a>
             {% else %}
