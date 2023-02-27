@@ -1,7 +1,7 @@
 ---
 layout: page
 
-permalink: /en/accueil/
+permalink: /fr/accueil/
 
 language: fr
 language_reference: home
