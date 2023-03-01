@@ -32,7 +32,7 @@ The ability to support the project is still **work in progress** but I'll get th
 
 ### Free(libre)
 
-All content I produce for **The Pluvionauts**, including art, game rules, blueprints, tutorials and more, will be provided on this website, free(libre) and available to everyone.
+All content I produce for **The Pluvionauts**, including art, game rules, blueprints, tutorials and more, will be provided on this website, free(libre) and available to everyone (currently work in progress).
 You will never be asked to pay or subscribe to anything to access to new content from the **The Pluvionauts** project.
 
 ### Open-source and permissive
