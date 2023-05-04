@@ -2,8 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
-name: The Pluvionauts, a Free(Libre) board game.
-description: Move flying islands as an airship pilot!
+name: The Pluvionauts
+description: a Free(Libre) board game
 avatar: /assets/images/icons/logo.svg
 author: Rémi Monthiller
 
