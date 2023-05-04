@@ -212,7 +212,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 20px; // @TODO: Vertically middle align
+  margin-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -220,7 +220,6 @@ nav {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 18px;
   }
 
   a {
@@ -229,6 +228,8 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+
+    font-size: 18px;
 
     @include mobile {
       margin: 0 10px;
@@ -243,7 +244,7 @@ nav {
 
 lang {
   float: right;
-  margin-top: 5px; // @TODO: Vertically middle align
+  margin-top: 20px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 14px;
 
@@ -251,7 +252,6 @@ lang {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 14px;
   }
 
   a {
@@ -260,6 +260,8 @@ lang {
     text-align: left;
     font-weight: 300;
     letter-spacing: 1px;
+
+    font-size: 14px;
 
     @include mobile {
       margin: 0 10px;
