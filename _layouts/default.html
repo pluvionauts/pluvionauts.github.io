@@ -29,8 +29,8 @@
 			<p class="site-description">{{ site.languages[page.language].description }}</p>
 		  </div>
 
-		  <!-- Navigation menu -->
-		  <div class="container">
+		  <div>
+		  	  <!-- Navigation menu -->
 			  <nav>
 				{% if page.language == "fr" %}
 				  <a href="{{ site.baseurl }}/fr/accueil">Accueil</a>
@@ -48,7 +48,6 @@
 				  <a href="{{ site.baseurl }}/en/about">About</a>
 				{% endif %}
 			  </nav>
-
 			  <!-- Language selection -->
 			  <lang>
 				{% for language in site.languages %}
