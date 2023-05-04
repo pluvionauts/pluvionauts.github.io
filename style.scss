@@ -212,7 +212,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 0px; // @TODO: Vertically middle align
+  margin-top: 10px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -239,9 +239,9 @@ nav {
 
 lang {
   float: right;
-  margin-top: 0px; // @TODO: Vertically middle align
+  margin-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 14px;
 
   @include mobile {
     float: none;

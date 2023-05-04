@@ -30,6 +30,38 @@
 		  </div>
 
 		  <div>
+		  	  <!-- Language selection -->
+  			  <lang>
+  				{% for language in site.languages %}
+  				  {% if page.layout == 'page' or page.layout == 'homepage'%}
+  					{% assign translations = site.pages
+  					  | where: 'language_reference', page.language_reference
+  					  | where: 'language', language[1].code %}
+  					{% if translations.size == 1 %}
+  					  {% for translation in translations %}
+  						{% assign url = site.baseurl | append: translation.url %}
+  					  {% endfor %}
+  					{% endif %}
+  				  {% elsif page.layout == 'post' %}
+  					{% assign translations = site.posts
+  					  | where: 'language_reference', page.language_reference
+  					  | where: 'language', language[1].code %}
+  					{% if translations.size == 1 %}
+  					  {% for translation in translations %}
+  						{% assign url = site.baseurl | append: translation.url %}
+  					  {% endfor %}
+  					{% endif %}
+  				  {% endif %}
+  
+  				  {% if translations.size == 1 %}
+  					{% if language[1].code == "fr" %}
+  					  <a href="{{ url }}">Français</a>
+  					{% else %}
+  					  <a href="{{ url }}">English</a>
+  					{% endif %}
+  				  {% endif %}
+  				{% endfor %}
+  			  </lang>
 		  	  <!-- Navigation menu -->
 			  <nav>
 				{% if page.language == "fr" %}
@@ -48,38 +80,6 @@
 				  <a href="{{ site.baseurl }}/en/about">About</a>
 				{% endif %}
 			  </nav>
-			  <!-- Language selection -->
-			  <lang>
-				{% for language in site.languages %}
-				  {% if page.layout == 'page' or page.layout == 'homepage'%}
-					{% assign translations = site.pages
-					  | where: 'language_reference', page.language_reference
-					  | where: 'language', language[1].code %}
-					{% if translations.size == 1 %}
-					  {% for translation in translations %}
-						{% assign url = site.baseurl | append: translation.url %}
-					  {% endfor %}
-					{% endif %}
-				  {% elsif page.layout == 'post' %}
-					{% assign translations = site.posts
-					  | where: 'language_reference', page.language_reference
-					  | where: 'language', language[1].code %}
-					{% if translations.size == 1 %}
-					  {% for translation in translations %}
-						{% assign url = site.baseurl | append: translation.url %}
-					  {% endfor %}
-					{% endif %}
-				  {% endif %}
-
-				  {% if translations.size == 1 %}
-					{% if language[1].code == "fr" %}
-					  <a href="{{ url }}">Français</a>
-					{% else %}
-					  <a href="{{ url }}">English</a>
-					{% endif %}
-				  {% endif %}
-				{% endfor %}
-			  </lang>
 		  </div>
 		</header>
 	  </div>
