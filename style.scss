@@ -77,10 +77,6 @@ a {
   }
 }
 
-current {
-  color: $blue;
-}
-
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
@@ -216,7 +212,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 10px; // @TODO: Vertically middle align
+  margin-top: 20px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -224,7 +220,7 @@ nav {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 18px;
   }
 
   a {
@@ -236,6 +232,10 @@ nav {
 
     @include mobile {
       margin: 0 10px;
+      // color: $blue;
+    }
+
+    current {
       color: $blue;
     }
   }
@@ -251,7 +251,7 @@ lang {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 14px;
   }
 
   a {
@@ -263,6 +263,10 @@ lang {
 
     @include mobile {
       margin: 0 10px;
+      // color: $blue;
+    }
+
+    current {
       color: $blue;
     }
   }
