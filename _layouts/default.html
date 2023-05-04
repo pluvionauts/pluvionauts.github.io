@@ -51,7 +51,7 @@
           <!-- Language selection -->
           <lang>
 	        {% for language in site.languages %}
-	          {% if page.layout == 'page' %}
+	          {% if page.layout == 'page' or page.layout == 'homepage'%}
 	            {% assign translations = site.pages
 	              | where: 'language_reference', page.language_reference
 	              | where: 'language', language[1].code %}
