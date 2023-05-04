@@ -210,36 +210,8 @@ img {
   }
 }
 
-nav {
-  float: right;
-  margin-top: 5px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-  }
-
-  a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    font-size: 18px;
-
-    @include mobile {
-      margin: 0 10px;
-      // color: $blue;
-    }
-
-    current {
-      color: $blue;
-    }
-  }
+current {
+  color: $blue;
 }
 
 lang {
@@ -261,7 +233,35 @@ lang {
     font-weight: 300;
     letter-spacing: 1px;
 
-    font-size: 14px;
+    @include mobile {
+      margin: 0 10px;
+      // color: $blue;
+    }
+
+    current {
+      color: $blue;
+    }
+  }
+}
+
+nav {
+  float: right;
+  margin-top: 5px; // @TODO: Vertically middle align
+  font-family: $helveticaNeue;
+  font-size: 18px;
+
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+  }
+
+  a {
+    margin-left: 20px;
+    color: $darkGray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
