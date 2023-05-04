@@ -11,12 +11,12 @@ author: Rémi Monthiller
 
 languages:
   en:
-    name: The Pluvionauts, a Free(Libre) board game.
-    description: Move flying islands as an airship pilot!
+    name: The Pluvionauts
+    description: a Free(Libre) board game
     code: en
   fr:
-    name: Les Pluvionautes, un jeu de société ouvert.
-    description: Incarne un pilote de montgolfière qui tracte des îles volantes!
+    name: Les Pluvionautes
+    description: un jeu de société libre et ouvert
     code: fr
 
 defaults:
