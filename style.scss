@@ -220,6 +220,8 @@ lang {
   font-family: $helveticaNeue;
   font-size: 14px;
 
+  display: block;
+
   @include mobile {
     float: none;
     margin-top: 9px;
@@ -249,6 +251,8 @@ nav {
   margin-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+
+  display: block;
 
   @include mobile {
     float: none;
