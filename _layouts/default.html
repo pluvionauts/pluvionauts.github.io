@@ -54,10 +54,18 @@
   				  {% endif %}
   
   				  {% if translations.size == 1 %}
-  					{% if language[1].code == "fr" %}
-  					  <a href="{{ url }}">Français</a>
+  				    {% if language[1].code == page.language %}
+  					  {% if language[1].code == "fr" %}
+  					    <a class="current" href="{{ url }}">Français</a>
+  					  {% else %}
+  					    <a href="{{ url }}">English</a>
+  					  {% endif %}
   					{% else %}
-  					  <a href="{{ url }}">English</a>
+  					  {% if language[1].code == "fr" %}
+  					    <a href="{{ url }}">Français</a>
+  					  {% else %}
+  					    <a href="{{ url }}">English</a>
+  					  {% endif %}
   					{% endif %}
   				  {% endif %}
   				{% endfor %}

@@ -71,10 +71,14 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
+}
+
+current {
+  color: $blue;
 }
 
 ul, ol {
