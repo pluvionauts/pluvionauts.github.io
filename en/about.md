@@ -1,13 +1,12 @@
 ---
 layout: page
 
-title: About
-description: About the author and the project.
-
 permalink: /en/about/
 
 language: en
 language_reference: about
+
+banner: /assets/images/home/banner.svg
 ---
 
 ## The author

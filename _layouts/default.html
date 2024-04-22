@@ -20,88 +20,97 @@
 
   <body>
 	<div class="wrapper-masthead">
-	  <div class="container">
-		<header class="masthead clearfix">
-		  <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-		  <div class="site-info">
-			<h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.languages[page.language].name }}</a></h1>
-			<p class="site-description">{{ site.languages[page.language].description }}</p>
-		  </div>
-
-		  	  <!-- Language selection -->
-  			  <lang>
-  				{% for language in site.languages %}
-  				  {% if page.layout == 'page' or page.layout == 'homepage'%}
-  					{% assign translations = site.pages
-  					  | where: 'language_reference', page.language_reference
-  					  | where: 'language', language[1].code %}
-  					{% if translations.size == 1 %}
-  					  {% for translation in translations %}
-  						{% assign url = site.baseurl | append: translation.url %}
-  					  {% endfor %}
-  					{% endif %}
-  				  {% elsif page.layout == 'post' %}
-  					{% assign translations = site.posts
-  					  | where: 'language_reference', page.language_reference
-  					  | where: 'language', language[1].code %}
-  					{% if translations.size == 1 %}
-  					  {% for translation in translations %}
-  						{% assign url = site.baseurl | append: translation.url %}
-  					  {% endfor %}
-  					{% endif %}
-  				  {% endif %}
-  
-  				  {% if translations.size == 1 %}
-  				    {% if language[1].code == page.language %}
-  					  {% if language[1].code == "fr" %}
-  					    <a class="current" href="{{ url }}">Français!</a>
-  					  {% else %}
-  					    <a class="current" href="{{ url }}">English!</a>
-  					  {% endif %}
-  					{% else %}
-  					  {% if language[1].code == "fr" %}
-  					    <a href="{{ url }}">Français</a>
-  					  {% else %}
-  					    <a href="{{ url }}">English</a>
-  					  {% endif %}
-  					{% endif %}
-  				  {% endif %}
-  				{% endfor %}
-  			  </lang>
-  			  
-		  	  <!-- Navigation menu -->
-			  <nav>
-				{% if page.language == "fr" %}
-				  <a href="{{ site.baseurl }}/fr/accueil">Accueil</a>
-				{% else %}
-				  <a href="{{ site.baseurl }}/">Home</a>
-				{% endif %}
-				{% if page.language == "fr" %}
-				  <a href="{{ site.baseurl }}/fr/evenements">Événements</a>
-				{% else %}
-				  <a href="{{ site.baseurl }}/en/events">Events</a>
-				{% endif %}
-				{% if page.language == "fr" %}
-				  <a href="{{ site.baseurl }}/fr/a-propos">À propos</a>
-				{% else %}
-				  <a href="{{ site.baseurl }}/en/about">About</a>
-				{% endif %}
-			  </nav>
-		</header>
-	  </div>
+		<!--<div class="container">-->
+			<header class="masthead clearfix">
+				<!-- <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a> -->
+				<!-- <div class="site-info"> -->
+				<!-- 	<h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.languages[page.language].name }}</a></h1> -->
+				<!-- 	<p class="site-description">{{ site.languages[page.language].description }}</p> -->
+				<!-- </div> -->
+				<!-- Navigation menu -->
+				<nav>
+					{% if page.language == "fr" %}
+					  <a href="{{ site.baseurl }}/fr/accueil">ACCUEIL</a>
+					{% else %}
+					  <a href="{{ site.baseurl }}/">HOME</a>
+					{% endif %}
+					{% if page.language == "fr" %}
+					  <a href="{{ site.baseurl }}/fr/obtenir-le-jeu">OBTENIR LE JEU</a>
+					{% else %}
+					  <a href="{{ site.baseurl }}/en/get-the-game">GET THE GAME</a>
+					{% endif %}
+					{% if page.language == "fr" %}
+					  <a href="{{ site.baseurl }}/fr/les-regles">LES RÈGLES</a>
+					{% else %}
+					  <a href="{{ site.baseurl }}/en/the-rules">THE RULES</a>
+					{% endif %}
+					{% if page.language == "fr" %}
+					  <a href="{{ site.baseurl }}/fr/a-propos">A PROPOS</a>
+					{% else %}
+					  <a href="{{ site.baseurl }}/en/about">ABOUT</a>
+					{% endif %}
+					<!-- Language selection -->
+					{% for language in site.languages %}
+						{% if page.layout == 'page' or page.layout == 'homepage'%}
+								{% assign translations = site.pages
+									| where: 'language_reference', page.language_reference
+									| where: 'language', language[1].code %}
+							{% if translations.size == 1 %}
+								{% for translation in translations %}
+									{% assign url = site.baseurl | append: translation.url %}
+								{% endfor %}
+							{% endif %}
+						{% elsif page.layout == 'post' %}
+							{% assign translations = site.posts
+								| where: 'language_reference', page.language_reference
+								| where: 'language', language[1].code %}
+							{% if translations.size == 1 %}
+								{% for translation in translations %}
+									{% assign url = site.baseurl | append: translation.url %}
+								{% endfor %}
+							{% endif %}
+						{% endif %}
+						{% if translations.size == 1 %}
+							{% if language[1].code == page.language %}
+								{% if language[1].code == "fr" %}
+									<flag-current>
+										<a href="{{ url }}"><img src="/assets/images/icons/fr.svg" alt="FR"/></a>
+									</flag-current>
+								{% else %}
+									<flag-current>
+										<a href="{{ url }}"><img src="/assets/images/icons/en.svg" alt="EN"/></a>
+									</flag-current>
+								{% endif %}
+							{% else %}
+								{% if language[1].code == "fr" %}
+									<flag>
+										<a href="{{ url }}"><img src="/assets/images/icons/fr.svg" alt="FR"/></a>
+									</flag>
+								{% else %}
+									<flag>
+										<a href="{{ url }}"><img src="/assets/images/icons/en.svg" alt="EN"/></a>
+									</flag>
+								{% endif %}
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+				</nav>
+			</header>
+		<!--</div>-->
 	</div>
-
+	<banner>
+		{% if page.banner %}<img src={{ page.banner }} alt="FR"/> {% endif %}
+	</banner>
 	<div id="main" role="main" class="container">
-	  {{ content }}
+		{{ content }}
 	</div>
 
 	<div class="wrapper-footer">
-	  <div class="container">
-		<footer class="footer">
-		  {% include svg-icons.html %}
-		</footer>
-	  </div>
+		<div class="container">
+			<footer class="footer">
+				{% include svg-icons.html %}
+			</footer>
+		</div>
 	</div>
 
 	{% include analytics.html %}

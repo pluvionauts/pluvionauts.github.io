@@ -1,5 +1,3 @@
-![Banner Prototype](/assets/images/home/banner.png)
-
 A big storm has hit the aerial world! As a **"Pluvionaut"**, a proud **air balloon pilot**, it's up to you to find a new land for the inhabitants of your destroyed village! 
 Luckily, an uninhabited archipelago is in sight! But beware, other pilots have also spotted it...
 
