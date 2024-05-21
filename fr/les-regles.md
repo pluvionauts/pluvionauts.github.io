@@ -10,7 +10,7 @@ banner: /assets/images/home/banner.svg
 ---
 
 <p align="center">
-  <img width="502" src="/assets/images/the-rules/fr/intro.svg" alt="Introduction">
+  <img max-width="502" src="/assets/images/the-rules/fr/intro.svg" alt="Introduction">
 </p>
 
 ![Introduction](/assets/images/the-rules/fr/intro.svg)
