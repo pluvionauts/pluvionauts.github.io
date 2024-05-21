@@ -9,18 +9,14 @@ language_reference: the-rules
 banner: /assets/images/home/banner.svg
 ---
 
-<p align="center">
-  <img max-width="502" src="/assets/images/the-rules/fr/intro.svg" alt="Introduction">
-</p>
-
-![Introduction](/assets/images/the-rules/fr/intro.svg)
+<img src="/assets/images/the-rules/fr/intro.svg" alt="Introduction" style="max-width:502px;width:502px;position:relative;left:50%;margin-left:-251px;">
 
 Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau et vos plantations** aux quatre coins du ciel !
 
 Incarnez un vaillant **Pluvionaute** et utilisez votre montgolfière pour **remorquer les îles volantes** et façonner le ciel à votre avantage.
 Déplacez aussi les nuages pour vous apporter une météo favorable.
 
-![Materiel](/assets/images/the-rules/fr/materiel.svg)
+<img src="/assets/images/the-rules/fr/materiel.svg" alt="Materiel" style="max-width:384px;width:384px;position:relative;left:50%;margin-left:-172px;">
 
 ![Liste du materiel](/assets/images/the-rules/fr/liste-du-materiel-stratus.svg)
 *Liste du materiel: Version Normale (Stratus).*
