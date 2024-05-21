@@ -30,24 +30,24 @@
 				<!-- Navigation menu -->
 				<nav>
 					{% if page.language == "fr" %}
-					  <a href="{{ site.baseurl }}/fr/accueil">ACCUEIL</a>
+					  <a href="{{ site.baseurl }}/fr/accueil" style="white-space: nowrap">ACCUEIL</a>
 					{% else %}
 					  <a href="{{ site.baseurl }}/">HOME</a>
 					{% endif %}
 					{% if page.language == "fr" %}
-					  <a href="{{ site.baseurl }}/fr/obtenir-le-jeu">OBTENIR LE JEU</a>
+					  <a href="{{ site.baseurl }}/fr/obtenir-le-jeu" style="white-space: nowrap">OBTENIR LE JEU</a>
 					{% else %}
-					  <a href="{{ site.baseurl }}/en/get-the-game">GET THE GAME</a>
+					  <a href="{{ site.baseurl }}/en/get-the-game" style="white-space: nowrap">GET THE GAME</a>
 					{% endif %}
 					{% if page.language == "fr" %}
-					  <a href="{{ site.baseurl }}/fr/les-regles">LES RÈGLES</a>
+					  <a href="{{ site.baseurl }}/fr/les-regles" style="white-space: nowrap">LES RÈGLES</a>
 					{% else %}
-					  <a href="{{ site.baseurl }}/en/the-rules">THE RULES</a>
+					  <a href="{{ site.baseurl }}/en/the-rules" style="white-space: nowrap">THE RULES</a>
 					{% endif %}
 					{% if page.language == "fr" %}
-					  <a href="{{ site.baseurl }}/fr/a-propos">A PROPOS</a>
+					  <a href="{{ site.baseurl }}/fr/a-propos" style="white-space: nowrap">A PROPOS</a>
 					{% else %}
-					  <a href="{{ site.baseurl }}/en/about">ABOUT</a>
+					  <a href="{{ site.baseurl }}/en/about" style="white-space: nowrap">ABOUT</a>
 					{% endif %}
 					<!-- Language selection -->
 					{% for language in site.languages %}

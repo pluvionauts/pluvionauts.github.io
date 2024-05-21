@@ -16,7 +16,7 @@ Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau e
 Incarnez un vaillant **Pluvionaute** et utilisez votre montgolfière pour **remorquer les îles volantes** et façonner le ciel à votre avantage.
 Déplacez aussi les nuages pour vous apporter une météo favorable.
 
-<img src="/assets/images/the-rules/fr/materiel.svg" alt="Materiel" style="max-width:384px;width:384px;position:relative;left:50%;margin-left:-172px;">
+<img src="/assets/images/the-rules/fr/materiel.svg" alt="Materiel" style="max-width:384px;width:384px;position:relative;left:50%;margin-left:-192px;">
 
 ![Liste du materiel](/assets/images/the-rules/fr/liste-du-materiel-stratus.svg)
 *Liste du materiel: Version Normale (Stratus).*
