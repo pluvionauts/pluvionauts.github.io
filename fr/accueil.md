@@ -14,7 +14,7 @@ _Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau 
 _Incarnez un vaillant **Pluvionaute** au commande de votre montgolfière._
 _**Remorquer les îles volantes**, **déplacez les nuages** et façonnez le ciel à votre avantage !_
 
-<img src="/assets/images/the-rules/fr/parameters.svg" alt="Paramètres du jeu" style="max-width:376px;width:376px;position:relative;left:50%;margin-left:-188px;">
+<img src="/assets/images/home/parameters.svg" alt="Paramètres du jeu" style="max-width:376px;width:376px;position:relative;left:50%;margin-left:-188px;">
 
 **Les Pluvionautes** est un jeu de **stratégie**... mais qui fera aussi travailler votre **adresse** !
 De **2 à 6 joueurs**, le jeu se déroule en des parties de **30 à 60 min** à partir de **10 ans**.

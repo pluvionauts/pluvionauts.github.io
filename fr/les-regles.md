@@ -74,7 +74,7 @@ Le jeu se compose de plusieurs tours, les joueurs jouant chacun leur tour **dans
 
 Pendant son tour, le joueur effectue **les actions suivantes dans l'ordre** :
 
-<img src="/assets/images/the-rules/fr/decollage.svg" alt="Décollage" style="max-width:372px;width:372px;">
+<img src="/assets/images/the-rules/fr/decollage.svg" alt="Décollage" style="max-width:344px;width:344px;">
 
 1. S'il votre **Pion Dirigeable** est sur le plateau, retirez le du plateau.
 2. Lancez le **Dé Montgolfière** sur le plateau en visant une zone où vous voulez atterrir. Votre main ne doit pas survoler le plateau pendant ce lancer. 
@@ -157,7 +157,7 @@ Ce mode de jeu impacte:
 * **Le Déroulement d'un tour**: Le **Décollage** est l'**Atterrissage** restent **inchangés** mais les 3 phases **Déplacement, Arrimage et Remorquage** sont remplacés par les 2 phases **Navigation Îles et Navigation Nuages** (expliquées ci-dessous).
 * **La fin de partie**: déclenchée dès que **13 Nuages** ont été Ancrés.
 
-<img src="/assets/images/the-rules/fr/decollage.svg" alt="Décollage" style="max-width:372px;width:372px;">
+<img src="/assets/images/the-rules/fr/decollage.svg" alt="Décollage" style="max-width:344px;width:344px;">
 
 La phase de décollage reste inchangée par rapport au mode normal.
 
