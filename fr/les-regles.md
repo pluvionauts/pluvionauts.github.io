@@ -14,7 +14,7 @@ banner: /assets/images/home/banner.svg
 Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau et vos plantations** aux quatre coins du ciel !
 
 Incarnez un vaillant **Pluvionaute** au commande de votre montgolfière.
-**Remorquer les îles volantes**, **déplacez les nuages** et façonnez le ciel à votre avantage !
+**Remorquez les îles volantes**, **déplacez les nuages** et façonnez le ciel à votre avantage !
 
 <img src="/assets/images/the-rules/fr/materiel.svg" alt="Materiel" style="max-width:356px;width:356px;position:relative;left:50%;margin-left:-178px;">
 
