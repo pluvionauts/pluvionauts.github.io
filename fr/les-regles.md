@@ -9,6 +9,10 @@ language_reference: the-rules
 banner: /assets/images/home/banner.svg
 ---
 
+<p align="center">
+  <img min-width="502" src="/assets/images/the-rules/fr/intro.svg" alt="Introduction">
+</p>
+
 ![Introduction](/assets/images/the-rules/fr/intro.svg)
 
 Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau et vos plantations** aux quatre coins du ciel !
