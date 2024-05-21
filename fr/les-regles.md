@@ -56,6 +56,7 @@ Le but du jeu est d'accomplir au mieux sa **Mission**, qui comporte **DEUX** obj
 **Note :** Une plantation (ou un élevage) est constituée de tous les éléments (ou animaux) dans **un groupe d'Îles adjacentes de même type**.
 
 <img src="/assets/images/the-rules/fr/mission-exemple.svg" alt="Exemple de mission." style="max-width:222px;width:222px;position:relative;left:50%;margin-left:-111px;">
+
 *Exemple de Mission composé d'un objectif __champignon__ (plantation) et d'un objectif __vache__ (troupeau).*
 
 **Les points gagnés** pour chaque objectif de Mission sont calculés en fonction de **l'état du plateau à la fin de la partie** :
