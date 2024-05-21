@@ -11,9 +11,10 @@ banner: /assets/images/home/banner.svg
 
 ![Introduction](/assets/images/the-rules/fr/intro.svg)
 
-_Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau et vos plantations** aux quatre coin du ciel !_
+Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau et vos plantations** aux quatre coins du ciel !
 
-_Incarnez un vaillant **Pluvionaute**, et utilisez votre montgolfière pour **remorquer îles volantes et nuages** et façonner le ciel à votre avantage !_
+Incarnez un vaillant **Pluvionaute** et utilisez votre montgolfière pour **remorquer les îles volantes** et façonner le ciel à votre avantage.
+Déplacez aussi les nuages pour vous apporter une météo favorable.
 
 ![Materiel](/assets/images/the-rules/fr/materiel.svg)
 
@@ -28,7 +29,7 @@ _Incarnez un vaillant **Pluvionaute**, et utilisez votre montgolfière pour **re
 La boîte du jeu est utilisée comme plateau de jeu. 
 Retirez le **Dé Montgolfière**, les **6 pions Dirigeable**, les **6 Missions** et les **3 Aides de jeu** de la boîte. 
 
-Les **10 Îles Plaine**, les **7 Îles Forêt**, les **5 Îles Montagne** et les **15 Nuages** sont placées aléatoirement sur les emplacements hexagonales de la boite.
+Les **10 Îles Plaine**, les **7 Îles Forêt**, les **5 Îles Montagne** et les **15 Nuages** sont placées aléatoirement (en secouant la boîte par exemple) sur les emplacements hexagonales de la boite.
 Chaque emplacement doit soit être occupé par une île ou un nuage.
 
 Chaque personne prend un **Pion Dirigeable**.
@@ -75,10 +76,13 @@ Pendant son tour, le joueur effectue **les actions suivantes dans l'ordre** :
 ![Décollage](/assets/images/the-rules/fr/decollage.svg)
 
 1. S'il votre **Pion Dirigeable** est sur le plateau, retirez le du plateau.
-2. Visez et lancez le **Dé Montgolfière** sur le plateau. Votre main ne doit pas survoler le plateau pendant ce lancer. L'emplacement où le dé atterrit représente l'endroit où votre montgolfière a atterri après le décollage. Le nombre indiqué par le dé représente vos **Points de Déplacement** (voir déplacement ci-dessous).
+2. Lancez le **Dé Montgolfière** sur le plateau en visant une zone où vous voulez atterrir. Votre main ne doit pas survoler le plateau pendant ce lancer. 
+	- L'emplacement où le dé s'immobilise représente l'endroit où votre montgolfière a atterri après le décollage.
+	- Si le dé se retrouve entre plusieurs cases, le joueur actif choisi la case où il décide d'atterrir parmi celles-ci.
+	- Le nombre indiqué par le dé représente vos **Points de Déplacement** (voir déplacement ci-dessous).
 3. Si le dé affiche la face **Dirigeable**, le joueur peut choisir n'importe quelle face du **Dé Montgolfière** avant le déplacement (voir déplacement ci-dessous).
 
-**Note:** Chaque joueur dispose de **2 essais au maximum** pour faire atterrir le **Dé Montgolfière** sur le plateau (cette règle peut être assouplie pour ceux qui ont des difficultés).
+**Note:** Chaque joueur dispose de **2 essais au maximum** pour faire atterrir le **Dé Montgolfière** sur le plateau (cette règle peut être assouplie pour ceux qui ont des difficultés)
 
 ![Déplacement](/assets/images/the-rules/fr/deplacement.svg)
 
@@ -126,12 +130,12 @@ Chaque nuage Ancré a un effet sur les deux îles adjacentes:
 **La fin de la partie est déclenchée dès que 9 Nuages ont été Ancrés.** Terminez le tour en cours, et la partie prend fin **une fois que le dernier joueur a terminé son tour.**
 
 Cumulant les points de ses deux objectifs, la personne avec le score le plus élevé à la fin de la partie remporte la victoire.
-**Si plusieurs personnes sont à ex aequo, elles partagent la victoire.**
+**Si plusieurs personnes sont ex aequo, elles partagent la victoire.**
 
 ![Mode Duel](/assets/images/the-rules/fr/mode-duel.svg)
 
-Si vous jouez à deux joueurs, vous jouez avec deux pions Dirigeable.
-Lors de la mise en place, prenez deux pions Dirigeable chacun au lieu d'un.
+Si vous jouez à deux joueurs, chacun dispose de deux pions Dirigeables. 
+Lors de la mise en place, prenez deux pions Dirigeables par joueur au lieu d'un.
 
 Lors de la phase de **Décollage**:
 * si vos 2 pions Dirigeable sont sur le plateau, reprenez un seul de ces pions.
@@ -139,10 +143,14 @@ Lors de la phase de **Décollage**:
 
 Lors de la phase d'**Atterrissage** vous ne posez qu'un seul de vos pions par tour (même si vos deux pions sont disponibles).
 
+![Mise en place Avancé](/assets/images/the-rules/fr/mise-en-place-avance.svg)
+
+Pour des parties plus équilibrés entre chaque mission, lors de la mise en place initiale, assurez vous de former des groupes d'îles d'un même terrain contenant soit 3, soit 4 animaux par groupe et moins de 4 plantations (champignons, fleurs et cristaux) par groupe.
+
 ![Mode Avancé](/assets/images/the-rules/fr/mode-avance.svg)
 
-Le mode de jeu avancé est destiné aux joueurs ayant déjà fait une ou plusieurs parties et qui maîtrisent déjà bien la navigation en montgolfière !
-Dans ce mode de jeu, vous remplacez le **Dé Montgolfière Normal** par le **Dé Montgolfière Avancée**.
+Le **mode de jeu avancé** est destiné aux joueurs ayant déjà fait une ou plusieurs parties et qui maîtrisent déjà bien la navigation en montgolfière !
+Dans ce mode de jeu, vous remplacez le **Dé Montgolfière Normal** par le **Dé Montgolfière Avancé**.
 
 Ce mode de jeu impacte:
 * **Le Déroulement d'un tour**: Le **Décollage** est l'**Atterrissage** restent **inchangés** mais les 3 phases **Déplacement, Arrimage et Remorquage** sont remplacés par les 2 phases **Navigation Îles et Navigation Nuages** (expliquées ci-dessous).
@@ -151,6 +159,8 @@ Ce mode de jeu impacte:
 ![Décollage](/assets/images/the-rules/fr/decollage.svg)
 
 La phase de décollage reste inchangée par rapport au mode normal.
+
+![Navigaton](/assets/images/the-rules/fr/navigation.svg)
 
 ![Navigaton Îles](/assets/images/the-rules/fr/navigation-iles.svg)
 
@@ -179,7 +189,7 @@ La phase de d'atterrissage reste inchangée par rapport au mode normal.
 
 ![Mini extension: Intempéries](/assets/images/the-rules/fr/mini-extension-intemperies.svg)
 
-La mini extension **Intempéries** est complètement optionnelle et peut être utilisée pour pimenter les parties à la fois en **mode Normal** ou en **mode Avancé**.
+La mini extension **Intempéries** est optionnelle et peut être utilisée pour pimenter les parties à la fois en **mode Normal** ou en **mode Avancé**.
 
 Cette mini extension intègre le **Dé Soleil** ainsi que le **Dé Mousson** qui sont lancés aléatoirement dans la boîte lors de la mise en place (avant de distribuer les missions)
 
