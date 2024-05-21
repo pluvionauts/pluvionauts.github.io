@@ -73,7 +73,7 @@ Le jeu se compose de plusieurs tours, les joueurs jouant chacun leur tour **dans
 
 Pendant son tour, le joueur effectue **les actions suivantes dans l'ordre** :
 
-<img align="left" src="/assets/images/the-rules/fr/decollage.svg" alt="Décollage" style="max-width:372px;width:372px;">
+<img src="/assets/images/the-rules/fr/decollage.svg" alt="Décollage" style="max-width:372px;width:372px;">
 
 1. S'il votre **Pion Dirigeable** est sur le plateau, retirez le du plateau.
 2. Lancez le **Dé Montgolfière** sur le plateau en visant une zone où vous voulez atterrir. Votre main ne doit pas survoler le plateau pendant ce lancer. 
@@ -84,7 +84,7 @@ Pendant son tour, le joueur effectue **les actions suivantes dans l'ordre** :
 
 **Note:** Chaque joueur dispose de **2 essais au maximum** pour faire atterrir le **Dé Montgolfière** sur le plateau (cette règle peut être assouplie pour ceux qui ont des difficultés)
 
-<img align="left" src="/assets/images/the-rules/fr/deplacement.svg" alt="Déplacement" style="max-width:368px;width:368px;">
+<img src="/assets/images/the-rules/fr/deplacement.svg" alt="Déplacement" style="max-width:368px;width:368px;">
 
 Déplacez le Dé Montgolfière de case en case en utilisant vos **Points de Déplacement** affichés par le **Dé Montgolfière**. Le coût du déplacement dépend du **type de case vers laquelle vous vous déplacez** :
 
@@ -94,13 +94,13 @@ Déplacez le Dé Montgolfière de case en case en utilisant vos **Points de Dép
 
 **Note :** Vous n'êtes pas obligé d'utiliser tous vos Points de Déplacement.
 
-<img align="left" src="/assets/images/the-rules/fr/arrimage.svg" alt="Arrimage" style="max-width:302px;width:302px;">
+<img src="/assets/images/the-rules/fr/arrimage.svg" alt="Arrimage" style="max-width:302px;width:302px;">
 
 Si le Dé Montgolfière se trouve sur un *Nuage* ou *une Île inoccupé* (ni par un **Nuage**, ni par un **Dirigeable**) après le déplacement, retournez le **Dé Montgolfière** (la face du **dessous devient celle du haut**). 
 
 **Note :** L'**Île** ou le **Nuage** est maintenant **arrimé à votre montgolfière**.
 
-<img align="left" src="/assets/images/the-rules/fr/remorquage.svg" alt="Remorquage" style="max-width:362px;width:362px;">
+<img src="/assets/images/the-rules/fr/remorquage.svg" alt="Remorquage" style="max-width:362px;width:362px;">
 
 Si vous avez pu vous arrimer à une **Île** ou un **Nuage**, déplacez à nouveau le **Dé Montgolfière** en utilisant les **Points de Déplacement** indiqués par la nouvelle face du Dé.
 Lors de ce déplacement, l'**Île** ou le **Nuage** arrimé est déplacé **avec le Dé Montgolfière.**
@@ -109,7 +109,7 @@ Les mêmes règles de déplacement s'appliquent.
 * Si une Île est remorquée, le joueur doit terminer son déplacement sur **une case non occupée par une autre île.** Si cette case est occupée par un **Nuage**, placez **le Nuage au-dessus de l'île**.
 * Si un Nuage est remorqué, il est **Ancré** à la fin du remorquage : **il est placé verticalement dans l'un des espaces adjacents à la tuile occupée par le Dé Montgolfière en fin de remorquage.**
 
-<img align="left" src="/assets/images/the-rules/fr/atterrissage.svg" alt="Atterrissage" style="max-width:334px;width:334px;">
+<img src="/assets/images/the-rules/fr/atterrissage.svg" alt="Atterrissage" style="max-width:334px;width:334px;">
 
 Si après le **Remorquage**, vous terminez le tour sur une **Île inoccupée**, remplacez le **Dé Montgolfière** par votre **Pion Dirigeable** sur celle-ci. Cette **Île** ne pourra pas être déplacée jusqu'à votre prochain tour.
 
@@ -156,13 +156,13 @@ Ce mode de jeu impacte:
 * **Le Déroulement d'un tour**: Le **Décollage** est l'**Atterrissage** restent **inchangés** mais les 3 phases **Déplacement, Arrimage et Remorquage** sont remplacés par les 2 phases **Navigation Îles et Navigation Nuages** (expliquées ci-dessous).
 * **La fin de partie**: déclenchée dès que **13 Nuages** ont été Ancrés.
 
-<img align="left" src="/assets/images/the-rules/fr/decollage.svg" alt="Décollage" style="max-width:372px;width:372px;">
+<img src="/assets/images/the-rules/fr/decollage.svg" alt="Décollage" style="max-width:372px;width:372px;">
 
 La phase de décollage reste inchangée par rapport au mode normal.
 
-<img align="left" src="/assets/images/the-rules/fr/navigation.svg" alt="Navigation" style="max-width:224px;width:224px;">
+<img src="/assets/images/the-rules/fr/navigation.svg" alt="Navigation" style="max-width:224px;width:224px;">
 
-<img align="left" src="/assets/images/the-rules/fr/navigation-iles.svg" alt="Navigaton Îles" style="max-width:450px;width:450px;">
+<img src="/assets/images/the-rules/fr/navigation-iles.svg" alt="Navigaton Îles" style="max-width:450px;width:450px;">
 
 Si le **Dé Montgolfière** affiche des **montgolfières**, vous êtes dans la phase **Navigation Îles**.
 Dans ce cas, vous pouvez utiliser les **Points de Déplacement** affichés par le **Dé Montgolfière** pour déplacer votre **Dé Montgolfière**, soit seul, soit en tractant l'**Île inoccupé** sur laquelle il se trouve.
@@ -172,7 +172,7 @@ Vous pouvez tractez plusieurs îles dans le même tour.
 
 Si c'est votre première phase de **Navigation**, retournez ensuite le dé et réalisez une fois la phase **Navigation Nuages** avant de terminer votre tour.
 
-<img align="left" src="/assets/images/the-rules/fr/navigation-nuages.svg" alt="Navigaton Nuages" style="max-width:524px;width:524px;">
+<img src="/assets/images/the-rules/fr/navigation-nuages.svg" alt="Navigaton Nuages" style="max-width:524px;width:524px;">
 
 Si le **Dé Montgolfière** affiche un ou plusieurs **nuages**, vous êtes dans la phase **Navigation Nuages**.
 Dans ce cas, vous pouvez utiliser les **Points de Déplacement** affichés par le **Dé Montgolfière** pour déplacer votre **Dé Montgolfière**, soit seul, soit en tractant un **Nuage** (non-ancré) sur lequel il se trouve.
@@ -183,7 +183,7 @@ Vous pouvez tractez plusieurs nuages dans le même tour.
 A la fin de de cette phase, ancrez le nuage qui est sur la même case que votre dé s'il y en a un. Au maximum, un seul Nuage est ancré par tour.
 Si c'est votre première phase de **Navigation**, retournez ensuite le dé et réalisez une fois la phase **Navigation Îles** avant de terminer votre tour.
 
-<img align="left" src="/assets/images/the-rules/fr/atterrissage2.svg" alt="Atterrissage" style="max-width:334px;width:334px;">
+<img src="/assets/images/the-rules/fr/atterrissage2.svg" alt="Atterrissage" style="max-width:334px;width:334px;">
 
 La phase de d'atterrissage reste inchangée par rapport au mode normal.
 
