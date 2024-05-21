@@ -98,8 +98,8 @@
 			</header>
 		<!--</div>-->
 	</div>
-	<banner>
-		{% if page.banner %}<img src={{ page.banner }} alt="Banner" style="max-width:1744px;width:1744px;position:relative;left:50%;margin-left:-872px;" /> {% endif %}
+	<banner style="max-width:1744px;width:1744px;position:relative;left:50%;margin-left:-872px;">
+		{% if page.banner %}<img src={{ page.banner }} alt="Banner" /> {% endif %}
 	</banner>
 	<div id="main" role="main" class="container">
 		{{ content }}
