@@ -84,7 +84,7 @@ Pendant son tour, le joueur effectue **les actions suivantes dans l'ordre** :
 
 **Note:** Chaque joueur dispose de **2 essais au maximum** pour faire atterrir le **Dé Montgolfière** sur le plateau (cette règle peut être assouplie pour ceux qui ont des difficultés)
 
-<img src="/assets/images/the-rules/fr/deplacement.svg" alt="Déplacement" style="max-width:368px;width:368px;">
+<img src="/assets/images/the-rules/fr/deplacement.svg" alt="Déplacement" style="max-width:348px;width:348px;">
 
 Déplacez le Dé Montgolfière de case en case en utilisant vos **Points de Déplacement** affichés par le **Dé Montgolfière**. Le coût du déplacement dépend du **type de case vers laquelle vous vous déplacez** :
 
@@ -94,13 +94,13 @@ Déplacez le Dé Montgolfière de case en case en utilisant vos **Points de Dép
 
 **Note :** Vous n'êtes pas obligé d'utiliser tous vos Points de Déplacement.
 
-<img src="/assets/images/the-rules/fr/arrimage.svg" alt="Arrimage" style="max-width:302px;width:302px;">
+<img src="/assets/images/the-rules/fr/arrimage.svg" alt="Arrimage" style="max-width:274px;width:274px;">
 
 Si le Dé Montgolfière se trouve sur un *Nuage* ou *une Île inoccupé* (ni par un **Nuage**, ni par un **Dirigeable**) après le déplacement, retournez le **Dé Montgolfière** (la face du **dessous devient celle du haut**). 
 
 **Note :** L'**Île** ou le **Nuage** est maintenant **arrimé à votre montgolfière**.
 
-<img src="/assets/images/the-rules/fr/remorquage.svg" alt="Remorquage" style="max-width:362px;width:362px;">
+<img src="/assets/images/the-rules/fr/remorquage.svg" alt="Remorquage" style="max-width:342px;width:342px;">
 
 Si vous avez pu vous arrimer à une **Île** ou un **Nuage**, déplacez à nouveau le **Dé Montgolfière** en utilisant les **Points de Déplacement** indiqués par la nouvelle face du Dé.
 Lors de ce déplacement, l'**Île** ou le **Nuage** arrimé est déplacé **avec le Dé Montgolfière.**
@@ -109,7 +109,7 @@ Les mêmes règles de déplacement s'appliquent.
 * Si une Île est remorquée, le joueur doit terminer son déplacement sur **une case non occupée par une autre île.** Si cette case est occupée par un **Nuage**, placez **le Nuage au-dessus de l'île**.
 * Si un Nuage est remorqué, il est **Ancré** à la fin du remorquage : **il est placé verticalement dans l'un des espaces adjacents à la tuile occupée par le Dé Montgolfière en fin de remorquage.**
 
-<img src="/assets/images/the-rules/fr/atterrissage.svg" alt="Atterrissage" style="max-width:334px;width:334px;">
+<img src="/assets/images/the-rules/fr/atterrissage.svg" alt="Atterrissage" style="max-width:300px;width:300px;">
 
 Si après le **Remorquage**, vous terminez le tour sur une **Île inoccupée**, remplacez le **Dé Montgolfière** par votre **Pion Dirigeable** sur celle-ci. Cette **Île** ne pourra pas être déplacée jusqu'à votre prochain tour.
 
@@ -143,7 +143,7 @@ Lors de la phase de **Décollage**:
 
 Lors de la phase d'**Atterrissage** vous ne posez qu'un seul de vos pions par tour (même si vos deux pions sont disponibles).
 
-<img src="/assets/images/the-rules/fr/mise-en-place-avance.svg" alt="Mise en place Avancée" style="max-width:596px;width:596px;position:relative;left:50%;margin-left:-298px;">
+<img src="/assets/images/the-rules/fr/mise-en-place-avance.svg" alt="Mise en place Avancée" style="max-width:436px;width:436px;position:relative;left:50%;margin-left:-218px;">
 
 Pour des parties plus équilibrés entre chaque mission, lors de la mise en place initiale, assurez vous de former des groupes d'îles d'un même terrain contenant soit 3, soit 4 animaux par groupe et moins de 4 plantations (champignons, fleurs et cristaux) par groupe.
 
@@ -162,7 +162,7 @@ La phase de décollage reste inchangée par rapport au mode normal.
 
 <img src="/assets/images/the-rules/fr/navigation.svg" alt="Navigation" style="max-width:224px;width:224px;">
 
-<img src="/assets/images/the-rules/fr/navigation-iles.svg" alt="Navigaton Îles" style="max-width:450px;width:450px;">
+<img src="/assets/images/the-rules/fr/navigation-iles.svg" alt="Navigaton Îles" style="max-width:282px;width:282px;">
 
 Si le **Dé Montgolfière** affiche des **montgolfières**, vous êtes dans la phase **Navigation Îles**.
 Dans ce cas, vous pouvez utiliser les **Points de Déplacement** affichés par le **Dé Montgolfière** pour déplacer votre **Dé Montgolfière**, soit seul, soit en tractant l'**Île inoccupé** sur laquelle il se trouve.
@@ -172,7 +172,7 @@ Vous pouvez tractez plusieurs îles dans le même tour.
 
 Si c'est votre première phase de **Navigation**, retournez ensuite le dé et réalisez une fois la phase **Navigation Nuages** avant de terminer votre tour.
 
-<img src="/assets/images/the-rules/fr/navigation-nuages.svg" alt="Navigaton Nuages" style="max-width:524px;width:524px;">
+<img src="/assets/images/the-rules/fr/navigation-nuages.svg" alt="Navigaton Nuages" style="max-width:334px;width:334px;">
 
 Si le **Dé Montgolfière** affiche un ou plusieurs **nuages**, vous êtes dans la phase **Navigation Nuages**.
 Dans ce cas, vous pouvez utiliser les **Points de Déplacement** affichés par le **Dé Montgolfière** pour déplacer votre **Dé Montgolfière**, soit seul, soit en tractant un **Nuage** (non-ancré) sur lequel il se trouve.
@@ -183,11 +183,11 @@ Vous pouvez tractez plusieurs nuages dans le même tour.
 A la fin de de cette phase, ancrez le nuage qui est sur la même case que votre dé s'il y en a un. Au maximum, un seul Nuage est ancré par tour.
 Si c'est votre première phase de **Navigation**, retournez ensuite le dé et réalisez une fois la phase **Navigation Îles** avant de terminer votre tour.
 
-<img src="/assets/images/the-rules/fr/atterrissage2.svg" alt="Atterrissage" style="max-width:334px;width:334px;">
+<img src="/assets/images/the-rules/fr/atterrissage2.svg" alt="Atterrissage" style="max-width:300px;width:300px;">
 
 La phase de d'atterrissage reste inchangée par rapport au mode normal.
 
-<img src="/assets/images/the-rules/fr/mini-extension-intemperies.svg" alt="Mini Extension: Intempéries" style="max-width:650px;width:650px;position:relative;left:50%;margin-left:-325px;">
+<img src="/assets/images/the-rules/fr/mini-extension-intemperies.svg" alt="Mini Extension: Intempéries" style="max-width:438px;width:438px;position:relative;left:50%;margin-left:-219px;">
 
 La mini extension **Intempéries** est optionnelle et peut être utilisée pour pimenter les parties à la fois en **mode Normal** ou en **mode Avancé**.
 
