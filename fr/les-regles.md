@@ -13,8 +13,8 @@ banner: /assets/images/home/banner.svg
 
 Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau et vos plantations** aux quatre coins du ciel !
 
-Incarnez un vaillant **Pluvionaute** et utilisez votre montgolfière pour **remorquer les îles volantes** et façonner le ciel à votre avantage.
-Déplacez aussi les nuages pour vous apporter une météo favorable.
+Incarnez un vaillant **Pluvionaute** au commande de votre montgolfière.
+**Remorquer les îles volantes**, **déplacez les nuages** et façonnez le ciel à votre avantage !
 
 <img src="/assets/images/the-rules/fr/materiel.svg" alt="Materiel" style="max-width:356px;width:356px;position:relative;left:50%;margin-left:-178px;">
 
@@ -146,7 +146,7 @@ Lors de la phase d'**Atterrissage** vous ne posez qu'un seul de vos pions par to
 
 <img src="/assets/images/the-rules/fr/mise-en-place-avance.svg" alt="Mise en place Avancée" style="max-width:436px;width:436px;position:relative;left:50%;margin-left:-218px;">
 
-Pour des parties plus équilibrés entre chaque mission, lors de la mise en place initiale, assurez vous de former des groupes d'îles d'un même terrain contenant soit 3, soit 4 animaux par groupe et moins de 4 plantations (champignons, fleurs et cristaux) par groupe.
+Pour des parties plus équilibrés, lors de la** mise en place**, assurez vous de former des groupes d'îles d'un même type contenant **soit 3, soit 4 animaux** et **moins de 4 éléments** de plantations (champignons, fleurs et cristaux).
 
 <img src="/assets/images/the-rules/fr/mode-avance.svg" alt="Mode Avancé" style="max-width:440px;width:440px;position:relative;left:50%;margin-left:-220px;">
 
