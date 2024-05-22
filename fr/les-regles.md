@@ -146,7 +146,9 @@ Lors de la phase d'**Atterrissage** vous ne posez qu'un seul de vos pions par to
 
 <img src="/assets/images/the-rules/fr/mise-en-place-avance.svg" alt="Mise en place Avancée" style="max-width:436px;width:436px;position:relative;left:50%;margin-left:-218px;">
 
-Pour des parties plus équilibrés, lors de la** mise en place**, assurez vous de former des groupes d'îles d'un même type contenant **soit 3, soit 4 animaux** et **moins de 4 éléments** de plantations (champignons, fleurs et cristaux).
+Pour des parties plus équilibrés, lors de la **mise en place**, assurez vous de former des groupes d'îles d'un même type contenant :
+- **soit 3, soit 4 animaux** (vaches, rennes et lamas).
+- **moins de 4 ressources** (fleurs, champignons et cristaux).
 
 <img src="/assets/images/the-rules/fr/mode-avance.svg" alt="Mode Avancé" style="max-width:440px;width:440px;position:relative;left:50%;margin-left:-220px;">
 
@@ -208,5 +210,5 @@ De la même façon que le **Dé Montgolfière**, si à l'issue de la phase dé d
 Pour que la modification d'un **Dé Intempérie** soit valide, il faut que le **Dé Montgolfière** atterrisse sur le plateau. 
 S'il sort du plateau, replacez immédiatement les dés Intempéries éventuellement impactés à leur position et valeur d'origine.
 
-Les dés **Intempéries** ne peuvent pas être modifiés en valeur ou en position lorsque que la fin de partie est déclenchée (une fois le compte de nuages ancrés). 
+Les dés **Intempéries** ne peuvent pas être modifiés en valeur ou en position lorsque la fin de partie est déclenchée (une fois le compte de nuages ancrés). 
 Si cela arrive quand même, remplacez le dé Intempérie à sa position et valeur d'origine.
