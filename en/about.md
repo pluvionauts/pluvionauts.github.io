@@ -6,7 +6,7 @@ permalink: /en/about/
 language: en
 language_reference: about
 
-banner: /assets/images/home/banner.svg
+banner: /assets/images/home/banner.jpg
 ---
 
 ## The author

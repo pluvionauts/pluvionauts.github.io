@@ -6,7 +6,7 @@ permalink: /fr/a-propos/
 language: fr
 language_reference: about
 
-banner: /assets/images/home/banner.svg
+banner: /assets/images/home/banner.jpg
 ---
 
 ![# L'Auteur](/assets/images/about/fr/l-auteur.svg)

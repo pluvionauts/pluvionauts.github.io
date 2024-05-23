@@ -6,7 +6,7 @@ permalink: /fr/les-regles/
 language: fr
 language_reference: the-rules
 
-banner: /assets/images/home/banner.svg
+banner: /assets/images/home/banner.jpg
 ---
 
 <img src="/assets/images/the-rules/fr/intro.svg" alt="Introduction" style="max-width:396px;width:396px;position:relative;left:50%;margin-left:-198px;">

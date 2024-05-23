@@ -6,7 +6,7 @@ permalink: /fr/obtenir-le-jeu/
 language: fr
 language_reference: get-the-game
 
-banner: /assets/images/home/banner.svg
+banner: /assets/images/home/banner.jpg
 ---
 
 ![Obtenir le jeu](/assets/images/get-the-game/fr/obtenir-le-jeu.svg)

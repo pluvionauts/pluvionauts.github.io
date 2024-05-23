@@ -6,7 +6,7 @@ permalink: /fr/accueil/
 language: fr
 language_reference: home
 
-banner: /assets/images/home/banner.svg
+banner: /assets/images/home/banner.jpg
 ---
 
 _Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau et vos plantations** aux quatre coins du ciel !_
