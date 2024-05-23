@@ -25,7 +25,7 @@ Je suis toujours ouvert à la discussion et aux nouveaux projets, donc n'hésite
 
 La philosophie de ce projet est fortement inspiré de celle de [Pepper&Carrot](https://www.peppercarrot.com/en/), un projet de bande dessinée libre créé par [David Revoy](https://www.davidrevoy.com/) qui est une importante source d'inspiration, allez voir ce qu'il fait, c'est super !
 
-**Les Pluvionautes** est un projet qui se veut le plus indépendant possible pour permettre son évolution de la façon la plus ouverte et accessible possible. D'ailleurs, si vous voulez me soutenir dans la réalisations de plus de projets qui adhère à cette philosophie, n'hésitez pas à me soutenir sur **TODO**.
+**Les Pluvionautes** est un projet qui se veut le plus indépendant possible pour permettre son évolution de la façon la plus ouverte et accessible possible. D'ailleurs, si vous voulez me soutenir dans la réalisations de plus de projets qui adhère à cette philosophie, n'hésitez pas à me soutenir sur [Patreon](https://www.patreon.com/rmonthil).
 
 Même si cette démarche d'ouverture est encore peu pratiqué dans le milieu de l'édition jeu de société (on pourra tout de même noter l'existence de l'excellent [Cards Against Humanity](https://www.cardsagainsthumanity.com/) sous licence Creative Commons BY-NC-SA), elle découle d'une volonté de concevoir et produire les jeux de société différemment.
 
