@@ -27,9 +27,9 @@ La philosophie de ce projet est fortement inspiré de celle de [Pepper&Carrot](h
 
 **Les Pluvionautes** est un projet qui se veut le plus indépendant possible pour permettre son évolution de la façon la plus ouverte et accessible possible. D'ailleurs, si vous voulez me soutenir dans la réalisations de plus de projets qui adhère à cette philosophie, n'hésitez pas à me soutenir sur [Patreon](https://www.patreon.com/rmonthil).
 
-Même si cette démarche d'ouverture est encore peu pratiqué dans le milieu de l'édition jeu de société (on pourra tout de même noter l'existence de l'excellent [Cards Against Humanity](https://www.cardsagainsthumanity.com/) sous licence Creative Commons BY-NC-SA), elle découle d'une volonté de concevoir et produire les jeux de société différemment.
+Même si cette démarche d'ouverture est encore peu pratiqué dans le milieu de l'édition jeu de société (on pourra tout de même noter l'existence de [Cards Against Humanity](https://www.cardsagainsthumanity.com/) sous licence Creative Commons BY-NC-SA), elle découle d'une volonté de concevoir et produire les jeux de société différemment.
 
-Bien qu'ayant des approches différentes, ce projet a également été inspiré par d'autre studio d'édition/création très inspirants, tel que [Subverti](https://subverti.com/fr/) ou [Ludenbois](https://www.ludenbois.fr/) pour n'en citer que deux.
+Bien qu'ayant des approches différentes, ce projet a également été inspiré par d'autre studio d'édition/création qui cherche également à faire les choses différemment, tel que [Subverti](https://subverti.com/fr/) ou [Ludenbois](https://www.ludenbois.fr/) et bien d'autres encore.
 
 ![# Libre](/assets/images/about/fr/libre.svg)
 
