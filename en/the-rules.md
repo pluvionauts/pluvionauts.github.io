@@ -7,7 +7,6 @@ language: en
 language_reference: the-rules
 ---
 
-<!-- <img src="/assets/images/fr/titre.svg" alt="Les Pluvionautes" style="max-width:800px;width:800px;position:relative;left:50%;margin-left:-400px;"> -->
 <img src="/assets/images/fr/titre.svg" alt="Les Pluvionautes" style="display: block; margin-left: auto; margin-right: auto; width:100%;">
 
 <img src="/assets/images/the-rules/fr/intro.svg" alt="Introduction" style="max-width:396px;width:396px;position:relative;left:50%;margin-left:-198px;">
