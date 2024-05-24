@@ -5,7 +5,7 @@ _A great storm has disrupted the aerial world, **scattering your flock and crops
 _Play as a brave **Pluvionaut** at the helm of your hot air balloon._
 _**Tow flying islands**, **move clouds**, and shape the sky to your advantage!_
 
-<img src="/assets/images/home/parameters.svg" alt="Paramètres du jeu" style="display: block; margin-left: auto; margin-right: auto; max-width: 376px;">
+<img src="/assets/images/home/parameters.svg" alt="Paramètres du jeu" style="display: block; margin-left: auto; margin-right: auto; max-width: 376px; width: 100%">
 
 **The Pluvionauts** is a **strategy** game... but it will also test your **skills**!
 For **2 to 6 players**, the game takes place in sessions of **30 to 60 minutes** and is suitable for ages **10 and up**.
