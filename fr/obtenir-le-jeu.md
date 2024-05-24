@@ -9,7 +9,7 @@ language_reference: get-the-game
 
 <img src="/assets/images/get-the-game/fr/obtenir-le-jeu.svg" alt="Obtenir le Jeu" style="display: block; margin-left: auto; margin-right: auto; max-width: 438px; width: 100%;">
 
-<img src="/assets/images/get-the-game/fr/version-officielle.svg" alt="Version officielle" style="display: block; margin-left: auto; margin-right: auto; max-width: 312px; width: 100%;">
+<img src="/assets/images/get-the-game/fr/version-officielle.svg" alt="Version officielle" style="display: block; margin-left: 0; margin-right: auto; max-width: 312px; width: 100%;">
 
 **La version officielle du jeu** peut actuellement être acheté sur la boutique en ligne de l'auteur: <a href="https://lesjeuxderemi.fr" target="_blank">Les Jeux de Rémi</a>.
 
