@@ -7,13 +7,13 @@ language: en
 language_reference: get-the-game
 ---
 
-<img src="/assets/images/get-the-game/fr/obtenir-le-jeu.svg" alt="Get the Game" style="max-width:438px;width:438px;position:relative;left:50%;margin-left:-218px;">
+<img src="/assets/images/get-the-game/fr/obtenir-le-jeu.svg" alt="Get the Game" style="display: block; margin-left: auto; margin-right: auto; max-width: 438px; width: 100%;">
 
-<img src="/assets/images/get-the-game/fr/version-officielle.svg" alt="Official Version" style="max-width:312px;width:312px;">
+<img src="/assets/images/get-the-game/fr/version-officielle.svg" alt="Official Version" style="display: block; margin-left: 0; margin-right: auto; max-width: 312px; width: 100%;">
 
 **The official version of the game** can currently be purchased on the author's online store: <a href="https://lesjeuxderemi.fr" target="_blank">Les Jeux de Rémi</a>.
 
-<img src="/assets/images/get-the-game/fr/autres-versions.svg" alt="Other Versions" style="max-width:334px;width:334px;">
+<img src="/assets/images/get-the-game/fr/autres-versions.svg" alt="Other Versions" style="display: block; margin-left: 0; margin-right: auto; max-width: 334px; width: 100%;">
 
 **Les Pluvionautes** is a [free and open project](/fr/a-propos/), open to production, distribution, publishing, and sales by third parties. You can even [make the game yourself](#fabriquer-le-jeu) if you have a laser cutting machine.
 
@@ -21,10 +21,10 @@ language_reference: get-the-game
 
 If you decide to produce and distribute the game yourself and want to see your service appear on this site, or if you know another distribution channel for the game, feel free to open an ["issue" on GitHub](https://github.com/pluvionauts/pluvionauts.github.io/issues) or contact me via email ([rmonthil.games@gmail.com](mailto:rmonthil.games@gmail.com)) or on social media ([@rmonthill](https://www.instagram.com/rmonthill/)).
 
-<img src="/assets/images/get-the-game/fr/fabriquer-le-jeu.svg" alt="Make the Game" style="max-width:480px;width:480px;position:relative;left:50%;margin-left:-240px;">
+<img src="/assets/images/get-the-game/fr/fabriquer-le-jeu.svg" alt="Make the Game" style="display: block; margin-left: auto; margin-right: auto; max-width: 480px; width: 100%;">
 <a name="fabriquer-le-jeu"></a>
 
-<img src="/assets/images/get-the-game/fr/decoupe.svg" alt="Laser Cutting" style="max-width:300px;width:300px;">
+<img src="/assets/images/get-the-game/fr/decoupe.svg" alt="Laser Cutting" style="display: block; margin-left: 0; margin-right: auto; max-width: 300px; width: 100%;">
 
 To make the game, you will need access to a laser cutting/engraving machine.
 The cutting files and all game designs can be found on the [official project repository](https://github.com/pluvionauts/board_game_the_pluvionauts).
@@ -34,7 +34,7 @@ If you do not have a cutting machine, you can use an **on-demand cutting service
 
 Once the cutting is done, follow the [instructions to assemble the game](#monter-le-jeu).
 
-<img src="/assets/images/get-the-game/fr/personnaliser-les-des.svg" alt="Customize the Dice" style="max-width:382px;width:382px;">
+<img src="/assets/images/get-the-game/fr/personnaliser-les-des.svg" alt="Customize the Dice" style="display: block; margin-left: 0; margin-right: auto; max-width: 382px; width: 100%;">
 
 If you have just completed the cutting and assembly of the box, feel free to use any six-sided die at first to play the game: just consider the **1** and **6** as *Airship faces*.
 
@@ -42,7 +42,7 @@ If you want to design your own dice, you can, for example, order blank dice (e.g
 
 Otherwise, some services offer customizable dice and allow engraving or printing your designs on the dice, such as [Alea-Jacta-Est](https://des-personnalisables.com/), a French manufacturer of customized dice based in Marseille.
 
-<img src="/assets/images/get-the-game/fr/monter-le-jeu.svg" alt="Assemble the Game" style="max-width:432px;width:432px;position:relative;left:50%;margin-left:-216px;">
+<img src="/assets/images/get-the-game/fr/monter-le-jeu.svg" alt="Assemble the Game" style="display: block; margin-left: auto; margin-right: auto; max-width: 432px; width: 100%;">
 <a name="monter-le-jeu"></a>
 
 If you are making the game yourself or using a **cutting service**, you will need to assemble the game yourself.

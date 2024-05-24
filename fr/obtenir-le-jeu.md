@@ -5,17 +5,15 @@ permalink: /fr/obtenir-le-jeu/
 
 language: fr
 language_reference: get-the-game
-
-banner: /assets/images/home/banner.jpg
 ---
 
-<img src="/assets/images/get-the-game/fr/obtenir-le-jeu.svg" alt="Obtenir le Jeu" style="max-width:438px;width:438px;position:relative;left:50%;margin-left:-218px;">
+<img src="/assets/images/get-the-game/fr/obtenir-le-jeu.svg" alt="Obtenir le Jeu" style="display: block; margin-left: auto; margin-right: auto; max-width: 438px; width: 100%;">
 
-<img src="/assets/images/get-the-game/fr/version-officielle.svg" alt="Version officielle" style="max-width:312px;width:312px;">
+<img src="/assets/images/get-the-game/fr/version-officielle.svg" alt="Version officielle" style="display: block; margin-left: auto; margin-right: auto; max-width: 312px; width: 100%;">
 
 **La version officielle du jeu** peut actuellement être acheté sur la boutique en ligne de l'auteur: <a href="https://lesjeuxderemi.fr" target="_blank">Les Jeux de Rémi</a>.
 
-<img src="/assets/images/get-the-game/fr/autres-versions.svg" alt="Autres versions" style="max-width:334px;width:334px;">
+<img src="/assets/images/get-the-game/fr/autres-versions.svg" alt="Autres versions" style="display: block; margin-left: 0; margin-right: auto; max-width: 334px; width: 100%;">
 
 **Les Pluvionautes** est un projet [libre et ouvert](/fr/a-propos/), ouvert à la production, la distribution, l'édition et la vente par des tiers, vous pouvez même [fabriquer le jeu vous même](#fabriquer-le-jeu) si vous avez une machine de découpe laser.
 
@@ -23,10 +21,10 @@ banner: /assets/images/home/banner.jpg
 
 Si vous décidez de produire et distribuer vous même le jeu et désirez voir apparaître votre service sur ce site, où si vous connaissez un autre vecteur de distribution du jeu, n'hésitez pas à ouvrir une ["issue" sur GitHub](https://github.com/pluvionauts/pluvionauts.github.io/issues) où à me contacter par mail ([rmonthil.games@gmail.com](mailto:rmonthil.games@gmail.com)) ou sur les réseaux ([@rmonthill](https://www.instagram.com/rmonthill/)).
 
-<img src="/assets/images/get-the-game/fr/fabriquer-le-jeu.svg" alt="Fabriquer le Jeu" style="max-width:480px;width:480px;position:relative;left:50%;margin-left:-240px;">
+<img src="/assets/images/get-the-game/fr/fabriquer-le-jeu.svg" alt="Fabriquer le Jeu" style="display: block; margin-left: auto; margin-right: auto; max-width: 480px; width: 100%;">
 <a name="fabriquer-le-jeu"></a>
 
-<img src="/assets/images/get-the-game/fr/decoupe.svg" alt="Découpe laser" style="max-width:300px;width:300px;">
+<img src="/assets/images/get-the-game/fr/decoupe.svg" alt="Découpe laser" style="display: block; margin-left: 0; margin-right: auto; max-width: 300px; width: 100%;">
 
 Pour fabriquer le jeu, vous devrez avoir accès à une machine de découpe/marquage laser.
 Les fichiers de découpe ainsi que tous les designs du jeu peuvent être trouvés sur [le dépôt officiel du projet](https://github.com/pluvionauts/board_game_the_pluvionauts).
@@ -36,7 +34,7 @@ Si vous ne disposez pas de machine de découpe, vous pouvez passer par un **serv
 
 Une fois la découpe réalisée, suivez les [instructions pour monter le jeu](#monter-le-jeu).
 
-<img src="/assets/images/get-the-game/fr/personnaliser-les-des.svg" alt="Personnaliser les dés" style="max-width:382px;width:382px;">
+<img src="/assets/images/get-the-game/fr/personnaliser-les-des.svg" alt="Personnaliser les dés" style="display: block; margin-left: 0; margin-right: auto; max-width: 382px; width: 100%;">
 
 Si vous venez de réaliser la découpe et le montage de la boîte, n'hésitez pas à utiliser n'importe quel dé à 6 faces dans un premier temps pour jouer au jeu: considérez juste le **1** et le **6** comme des *faces Dirigeable*.
 
@@ -44,7 +42,7 @@ Si vous cherchez à dessiner vos propres dés, vous pouvez par exemple commander
 
 Sinon des services proposent la vente de dé personnalisables et permettent la gravure ou l'impression de vos motifs sur les dés, tel que [Alea-Jacta-Est](https://des-personnalisables.com/), fabriquant français de dés personnalisés basé à Marseille.
 
-<img src="/assets/images/get-the-game/fr/monter-le-jeu.svg" alt="Monter le Jeu" style="max-width:432px;width:432px;position:relative;left:50%;margin-left:-216px;">
+<img src="/assets/images/get-the-game/fr/monter-le-jeu.svg" alt="Monter le Jeu" style="display: block; margin-left: auto; margin-right: auto; max-width: 432px; width: 100%;">
 <a name="monter-le-jeu"></a>
 
 Si vous fabriquez vous même le jeu ou que vous utilisez un **service de découpe**, il vous faudra monter vous-même le jeu.

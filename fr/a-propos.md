@@ -5,11 +5,9 @@ permalink: /fr/a-propos/
 
 language: fr
 language_reference: about
-
-banner: /assets/images/home/banner.jpg
 ---
 
-<img src="/assets/images/about/fr/l-auteur.svg" alt="L'Auteur" style="max-width:334px;width:334px;position:relative;left:50%;margin-left:-167px;">
+<img src="/assets/images/about/fr/l-auteur.svg" alt="L'Auteur" style="display: block; margin-left: auto; margin-right: auto; max-width: 334px; width: 100%;">
 
 Salut, moi c'est **Rémi Monthiller**. Je suis un petit créateur né en 1996 qui aime bien toucher à tout, du **game design**, au **dessin** en passant par la **recherche scientifique**.
 Je suis **un passionné de logiciels libres** et un joueur acharné, que ce soit à travers le sports, les jeux de société ou les jeux vidéo.
@@ -21,7 +19,7 @@ J'ai ensuite décidé d'investir mon temps dans le développement de mon idée d
 
 Je suis toujours ouvert à la discussion et aux nouveaux projets, donc n'hésitez pas à me contacter par mail ([rmonthil.games@gmail.com](mailto:rmonthil.games@gmail.com)) ou sur les réseaux ([@rmonthill](https://www.instagram.com/rmonthill/)).
 
-<img src="/assets/images/about/fr/la-philosophie.svg" alt="La Philosophie" style="max-width:450px;width:450px;position:relative;left:50%;margin-left:-225px;">
+<img src="/assets/images/about/fr/la-philosophie.svg" alt="La Philosophie" style="display: block; margin-left: auto; margin-right: auto; max-width: 450px; width: 100%;">
 
 La philosophie de ce projet est fortement inspiré de celle de [Pepper&Carrot](https://www.peppercarrot.com/en/), un projet de bande dessinée libre créé par [David Revoy](https://www.davidrevoy.com/) qui est une importante source d'inspiration, allez voir ce qu'il fait, c'est super !
 
@@ -31,11 +29,11 @@ Même si cette démarche d'ouverture est encore peu pratiqué dans le milieu de 
 
 Bien qu'ayant des approches différentes, ce projet a également été inspiré par d'autre studio d'édition/création qui cherche également à faire les choses différemment, tel que [Subverti](https://subverti.com/fr/) ou [Ludenbois](https://www.ludenbois.fr/) et bien d'autres encore.
 
-<img src="/assets/images/about/fr/libre.svg" alt="Libre" style="max-width:280px;width:280px;position:relative;left:50%;margin-left:-140px;">
+<img src="/assets/images/about/fr/libre.svg" alt="Libre" style="display: block; margin-left: auto; margin-right: auto; max-width: 280px; width: 100%;">
 
 Tous les contenus que je produis pour **Les Pluvionautes**, dont les dessins et graphismes, les règles du jeu, les plans de découpe/gravure laser et plus encore, sont disponibles, librement et gratuitement, et sont accessibles à tous.
 
-<img src="/assets/images/about/fr/open-source-et-permissif.svg" alt="Open-source et Permissif" style="max-width:476px;width:476px;position:relative;left:50%;margin-left:-238px;">
+<img src="/assets/images/about/fr/open-source-et-permissif.svg" alt="Open-source et Permissif" style="display: block; margin-left: auto; margin-right: auto; max-width: 476px; width: 100%;">
 
 **Tous ont le droit** de partager, d'utiliser, de développer **et même de commercialiser** les projets qui se basent sur **Les Pluvionautes**.
 Et pour promouvoir cette philosophie, toutes les ressources de ce projet sont réalisés en utilisant des logiciels libres et open-source : [SolveSpace](https://solvespace.com/index.pl) et [Inkscape](https://inkscape.org/).

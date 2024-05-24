@@ -5,8 +5,6 @@ permalink: /fr/accueil/
 
 language: fr
 language_reference: home
-
-banner: /assets/images/home/banner.jpg
 ---
 
 <img src="/assets/images/fr/titre.svg" alt="Les Pluvionautes" style="display: block; margin-left: auto; margin-right: auto; width:100%;">

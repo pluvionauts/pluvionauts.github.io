@@ -5,8 +5,6 @@ permalink: /fr/les-regles/
 
 language: fr
 language_reference: the-rules
-
-banner: /assets/images/home/banner.jpg
 ---
 
 <img src="/assets/images/fr/titre.svg" alt="Les Pluvionautes" style="max-width:800px;width:800px;position:relative;left:50%;margin-left:-400px;">
