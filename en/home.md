@@ -1,4 +1,19 @@
-A big storm has hit the aerial world! As a **"Pluvionaut"**, a proud **air balloon pilot**, it's up to you to find a new land for the inhabitants of your destroyed village! 
-Luckily, an uninhabited archipelago is in sight! But beware, other pilots have also spotted it...
+<img src="/assets/images/fr/titre.svg" alt="Les Pluvionautes" style="max-width:800px;width:800px;position:relative;left:50%;margin-left:-400px;">
 
-Be **the first to shape the sky to your advantage** and settle your villagers in this new land before your competitors do ... or you'll have to find another archipelago to settle on!
+_A great storm has disrupted the aerial world, **scattering your flock and crops** to the four corners of the sky!_
+
+_Play as a brave **Pluvionaut** at the helm of your hot air balloon._
+_**Tow flying islands**, **move clouds**, and shape the sky to your advantage!_
+
+<img src="/assets/images/home/parameters.svg" alt="Paramètres du jeu" style="max-width:376px;width:376px;position:relative;left:50%;margin-left:-188px;">
+
+**The Pluvionauts** is a **strategy** game... but it will also test your **skills**!
+For **2 to 6 players**, the game takes place in sessions of **30 to 60 minutes** and is suitable for ages **10 and up**.
+
+![The Pluvionauts](/assets/images/home/show_off.png)
+
+Not convinced yet? The game won the 2023 edition of the [Tremagne Prize](https://clanssortlegrandjeu.fr/le-prix-tremagne/)!
+
+Interested? Get the game by buying it from the author or by making it yourself ([learn more](/en/get-the-game/)).
+
+Are you creative? Note that the game stems from a free and open approach ([learn more](/en/about/)), so feel free to propose new rules or improvements!

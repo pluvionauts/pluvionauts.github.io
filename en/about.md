@@ -9,39 +9,41 @@ language_reference: about
 banner: /assets/images/home/banner.jpg
 ---
 
-## The author
+<img src="/assets/images/about/fr/l-auteur.svg" alt="The Author" style="max-width:334px;width:334px;position:relative;left:50%;margin-left:-167px;">
 
-Hi, my name is **Rémi Monthiller** and I'm a French artist/game dev/scientist born in 1996. 
-I'm a free(libre) software enthusiast and an every day gamer through sports, board games, role playing, video games and life in general.
+Hi, I'm **Rémi Monthiller**. I'm a small creator born in 1996 who likes to dabble in everything, from **game design** to **drawing** and **scientific research**.
+I am **passionate about free software** and a dedicated gamer, whether it's sports, board games, or video games.
 
-Throughout my studies, I can't remember a time without trying to create my own games, from board games to [video games](https://rmonthil.itch.io/), despite my academic pursuits leading me towards science.
-The Covid-19 pandemic got me to start working more actively on a long-term board game idea, which I completed during the final year of my [Ph.D. in physics of fluids](https://www.youtube.com/watch?v=LDYkYfR8kcw&t).
-I then decided to invest my time in bringing my board game idea to fruition, resulting in this project: **The Pluvionauts**.
+Despite my academic studies leading me towards science, I can't remember a time when I didn't try to **create my own games** (from board games to [video games](https://rmonthil.itch.io/)).
 
-If you have any inquiries, please feel free to email me at [rmonthil.games@gmail.com](mailto:rmonthil.games@gmail.com).
+The Covid-19 crisis pushed me to work more actively on a long-standing board game idea, which I was able to bring to life during my final year of [PhD in fluid physics](https://www.youtube.com/watch?v=LDYkYfR8kcw&t).
+I then decided to invest my time in developing my board game idea, which resulted in this project: **Les Pluvionautes**.
 
-## The philosophy
+I am always open to discussion and new projects, so feel free to contact me via email ([rmonthil.games@gmail.com](mailto:rmonthil.games@gmail.com)) or on social media ([@rmonthill](https://www.instagram.com/rmonthill/)).
 
-The philosophy of this project is strongly influenced by that of [Pepper&Carrot](https://www.peppercarrot.com/en/), a cartoon project by [David Revoy](https://www.davidrevoy.com/) which serves as a great inspiration.
+<img src="/assets/images/about/fr/la-philosophie.svg" alt="The Philosophy" style="max-width:450px;width:450px;position:relative;left:50%;margin-left:-225px;">
 
-### Supported by patrons
+The philosophy of this project is strongly inspired by that of [Pepper&Carrot](https://www.peppercarrot.com/en/), a free webcomic project created by [David Revoy](https://www.davidrevoy.com/) who is a significant source of inspiration. Go check out his work, it's great!
 
-**The Pluvionauts** project is intended to be solely funded by its patrons worldwide, with this system designed to ensure the project evolves freely and independently of marketing strategies.
-The ability to support the project is still **work in progress** but I'll get there.
+**Les Pluvionautes** is a project that aims to be as independent as possible to allow its evolution in the most open and accessible way. Moreover, if you want to support me in the creation of more projects adhering to this philosophy, feel free to support me on [Patreon](https://www.patreon.com/rmonthil).
 
-### Free(libre)
+Even though this open approach is still rarely practiced in the board game publishing industry (although we can note the existence of [Cards Against Humanity](https://www.cardsagainsthumanity.com/) under a Creative Commons BY-NC-SA license), it stems from a desire to design and produce board games differently.
 
-All content I produce for **The Pluvionauts**, including art, game rules, blueprints, tutorials and more, will be provided on this website, free(libre) and available to everyone (currently work in progress).
-You will never be asked to pay or subscribe to anything to access to new content from the **The Pluvionauts** project.
+Despite having different approaches, this project was also inspired by other publishing/creation studios that seek to do things differently, such as [Subverti](https://subverti.com/fr/) or [Ludenbois](https://www.ludenbois.fr/) and many others.
 
-### Open-source and permissive
+<img src="/assets/images/about/fr/libre.svg" alt="Free" style="max-width:280px;width:280px;position:relative;left:50%;margin-left:-140px;">
 
-People will have the right to share, use, build upon and even make money from this work.
-And to promote this philosophy, all resources for this project will be produced using Free(Libre) Open-Sources Software, including [Inkscape](https://inkscape.org/), [Krita](https://krita.org), [SolveSpace](https://solvespace.com/index.pl), among others.
+All the content I produce for **Les Pluvionautes**, including drawings and graphics, game rules, laser cutting/engraving plans, and more, is available freely and at no cost, and is accessible to everyone.
 
-All sources will be available on this website.
-Commercial usage, translations, fan-art, prints, movies, video-games, sharing, and reposts are **encouraged** with appropriate credit to the authors involved in the resource you want to use, and indicating any changes that were made.
-You may do so in any reasonable manner, but not in any way that suggests the authors endorse you or your use. 
-For more information, please refer to the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/deed.en).
+<img src="/assets/images/about/fr/open-source-et-permissif.svg" alt="Open-source and Permissive" style="max-width:476px;width:476px;position:relative;left:50%;margin-left:-238px;">
 
-In summary, you are free to modify the game rules, create and sell extensions or new versions of the game, or simply share and **enjoy the board game**!
+**Everyone has the right** to share, use, develop **and even commercialize** projects based on **Les Pluvionautes**.
+And to promote this philosophy, all the resources of this project are made using free and open-source software: [SolveSpace](https://solvespace.com/index.pl) and [Inkscape](https://inkscape.org/).
+
+**Commercial use**, translations, fan art, prints, videos, video games, sharing, and reposts are **encouraged**.
+It is only requested to **credit the work** you wish to use to the **authors involved** in its creation (designers, illustrators, translators...), **include a link to the license**, and indicate any **changes made**.
+
+You must indicate this information by all reasonable means, without suggesting that the authors endorse you or your use of their work.
+For more information, please refer to the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+In summary, you are **free to modify the game rules**, **create and sell expansions** or **new versions** of the game, or simply **share and enjoy** the game!
