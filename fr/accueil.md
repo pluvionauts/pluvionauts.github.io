@@ -9,6 +9,8 @@ language_reference: home
 banner: /assets/images/home/banner.jpg
 ---
 
+<img src="/assets/images/fr/titre.svg" alt="Les Pluvionautes" style="max-width:800px;width:800px;position:relative;left:50%;margin-left:-400px;">
+
 _Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau et vos plantations** aux quatre coins du ciel !_
 
 _Incarnez un vaillant **Pluvionaute** au commande de votre montgolfière._

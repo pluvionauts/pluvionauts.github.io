@@ -9,6 +9,8 @@ language_reference: the-rules
 banner: /assets/images/home/banner.jpg
 ---
 
+<img src="/assets/images/fr/titre.svg" alt="Les Pluvionautes" style="max-width:800px;width:800px;position:relative;left:50%;margin-left:-400px;">
+
 <img src="/assets/images/the-rules/fr/intro.svg" alt="Introduction" style="max-width:396px;width:396px;position:relative;left:50%;margin-left:-198px;">
 
 Une grande tempête a chamboulé le monde aérien, **dispersant votre troupeau et vos plantations** aux quatre coins du ciel !
