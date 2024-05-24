@@ -1,4 +1,5 @@
-<img src="/assets/images/fr/titre.svg" alt="Les Pluvionautes" style="max-width:800px;width:800px;position:relative;left:50%;margin-left:-400px;">
+<!-- <img src="/assets/images/fr/titre.svg" alt="Les Pluvionautes" style="max-width:800px;width:800px;position:relative;left:50%;margin-left:-400px;"> -->
+<img src="/assets/images/fr/titre.svg" alt="Les Pluvionautes" style="display: block; margin-left: auto; margin-right: auto; width:100%;">
 
 _A great storm has disrupted the aerial world, **scattering your flock and crops** to the four corners of the sky!_
 
