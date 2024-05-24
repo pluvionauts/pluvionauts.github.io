@@ -19,7 +19,7 @@ banner: /assets/images/home/banner.jpg
 
 **Les Pluvionautes** est un projet [libre et ouvert](/fr/a-propos/), ouvert à la production, la distribution, l'édition et la vente par des tiers, vous pouvez même [fabriquer le jeu vous même](#fabriquer-le-jeu) si vous avez une machine de découpe laser.
 
-**ATTENTION en cas de vente:** Les jeux de société (de la même façon que les jouets) sont soumis à des réglementations dépendant des pays où ils sont vendus. Si vous décider de vendre votre propre production des Pluvionautes, assurez vous de bien vous renseigner sur la réglementation en vigueur au préalable.
+**ATTENTION en cas de vente :** Les jeux de société (de la même façon que les jouets) sont soumis à des réglementations dépendant des pays où ils sont vendus. Si vous décider de vendre votre propre production des Pluvionautes, assurez vous de bien vous renseigner sur la réglementation en vigueur au préalable.
 
 Si vous décidez de produire et distribuer vous même le jeu et désirez voir apparaître votre service sur ce site, où si vous connaissez un autre vecteur de distribution du jeu, n'hésitez pas à ouvrir une ["issue" sur GitHub](https://github.com/pluvionauts/pluvionauts.github.io/issues) où à me contacter par mail ([rmonthil.games@gmail.com](mailto:rmonthil.games@gmail.com)) ou sur les réseaux ([@rmonthill](https://www.instagram.com/rmonthill/)).
 
