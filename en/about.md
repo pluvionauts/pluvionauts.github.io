@@ -5,8 +5,6 @@ permalink: /en/about/
 
 language: en
 language_reference: about
-
-banner: /assets/images/home/banner.jpg
 ---
 
 <img src="/assets/images/about/fr/l-auteur.svg" alt="The Author" style="max-width:334px;width:334px;position:relative;left:50%;margin-left:-167px;">

@@ -5,8 +5,6 @@ permalink: /en/get-the-game/
 
 language: en
 language_reference: get-the-game
-
-banner: /assets/images/home/banner.jpg
 ---
 
 <img src="/assets/images/get-the-game/fr/obtenir-le-jeu.svg" alt="Get the Game" style="max-width:438px;width:438px;position:relative;left:50%;margin-left:-218px;">
