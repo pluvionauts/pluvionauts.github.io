@@ -31,7 +31,7 @@ Bien qu'ayant des approches différentes, ce projet a également été inspiré 
 
 <img src="/assets/images/about/fr/libre.svg" alt="Libre" style="display: block; margin-left: auto; margin-right: auto; max-width: 280px; width: 100%;">
 
-Tous les contenus que je produis pour **Les Pluvionautes**, dont les dessins et graphismes, les règles du jeu, les plans de découpe/gravure laser et plus encore, sont disponibles, librement et gratuitement, et sont accessibles à tous.
+Tous les contenus que je produis pour **Les Pluvionautes**, dont les dessins et graphismes, les règles du jeu, les plans de découpe/gravure laser et plus encore, sont disponibles, librement et gratuitement, et sont accessibles à tous, notamment sur le [dépôt officiel du projet](https://github.com/pluvionauts/board_game_the_pluvionauts).
 
 <img src="/assets/images/about/fr/open-source-et-permissif.svg" alt="Open-source et Permissif" style="display: block; margin-left: auto; margin-right: auto; max-width: 476px; width: 100%;">
 
