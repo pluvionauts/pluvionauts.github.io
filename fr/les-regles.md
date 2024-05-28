@@ -205,10 +205,13 @@ A la fin de la partie:
 * Toutes les tuiles affectés par le **Dé Mousson** ont leurs plantations doublés (fleurs, champignons et cristaux). Le compte d'animaux reste inchangé.
 * Toutes les tuiles affectés par le **Dé Soleil** ont leurs animaux doublés (vaches, rennes et lamas). Le compte de plantations reste inchangé.
 
+![Exemple de décompte de points avec le Dé Mousson et le Dé Soleil.](/assets/images/the-rules/counting-of-points-with-dice.svg)
+*Exemple de décompte de points avec le __Dé Mousson__ et le __Dé Soleil__. Pour la clarté du propos, les nuages sont ignorés ici mais en pratique l'effet des nuages est appliqué avant l'effet des dés pour le décompte des points.*
+
 La position et la valeur de ces deux **Dés Intempéries** peuvent être modifiées en les visant avec le **Dé Montgolfière** lors de la phase de **Décollage**.
 De la même façon que le **Dé Montgolfière**, si à l'issue de la phase dé décollage, un dé se retrouve entre plusieurs cases, c'est le joueur actif qui décide de son placement.
 Pour que la modification d'un **Dé Intempérie** soit valide, il faut que le **Dé Montgolfière** atterrisse sur le plateau. 
 S'il sort du plateau, replacez immédiatement les dés Intempéries éventuellement impactés à leur position et valeur d'origine.
 
-Les dés **Intempéries** ne peuvent pas être modifiés en valeur ou en position lorsque la fin de partie est déclenchée (une fois le compte de nuages ancrés). 
+Les dés **Intempéries** ne peuvent pas être modifiés en valeur ou en position lorsque la fin de partie est déclenchée (une fois le compte de nuages ancrés atteint). 
 Si cela arrive quand même, remplacez le dé Intempérie à sa position et valeur d'origine.
